@@ -1,0 +1,13 @@
+{
+  "name": "level-ai-jobs-list",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI/ML jobs and internships list, rebuilt every hour from the public Level API.",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "update": "node scripts/generate.mjs",
+    "test": "node --test test/"
+  }
+}
