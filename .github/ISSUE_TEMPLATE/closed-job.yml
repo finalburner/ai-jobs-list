@@ -1,0 +1,28 @@
+name: Report a role
+description: A role is closed, duplicated or listed in the wrong table.
+title: "Report: "
+labels: ["report"]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Link to the role on Level
+      description: The URL behind the Apply link in the list.
+      placeholder: https://jobsbylevel.com/jobs/...
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What is wrong?
+      options:
+        - The role is closed
+        - The role is listed twice
+        - The role is in the wrong table
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details (optional)
