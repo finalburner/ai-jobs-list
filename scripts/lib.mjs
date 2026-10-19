@@ -220,7 +220,7 @@ export function renderReadme(sections, now) {
   out.push("");
   out.push("## Get alerts");
   out.push("");
-  out.push(`Want new roles in your inbox instead of checking this page? [Get job alerts on Level](${SITE}/?${UTM}) and pick your filters. Employers can [post a job](${SITE}/post-a-job?${UTM}) on Level.`);
+  out.push(`Want new roles in your inbox instead of checking this page? [Get job alerts on Level](${SITE}/job-alerts?${UTM}) and pick your filters. Employers can [post a job](${SITE}/post-a-job?${UTM}) on Level.`);
   out.push("");
   out.push('<a id="contribute"></a>');
   out.push("");
