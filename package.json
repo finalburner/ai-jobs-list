@@ -8,6 +8,6 @@
   "engines": { "node": ">=20" },
   "scripts": {
     "update": "node scripts/generate.mjs",
-    "test": "node --test test/"
+    "test": "node --test test/*.test.mjs"
   }
 }
