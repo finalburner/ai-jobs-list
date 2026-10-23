@@ -1,17 +1,17 @@
 # AI/ML jobs and internships
 
-[![Open roles](https://img.shields.io/badge/open%20roles-309-2563eb)](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) [![Updated](https://img.shields.io/badge/updated-2026--10--22-555555)](#) [![Refreshed hourly](https://img.shields.io/badge/refresh-hourly-16a34a)](.github/workflows/update.yml) [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](LICENSE)
+[![Open roles](https://img.shields.io/badge/open%20roles-308-2563eb)](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) [![Updated](https://img.shields.io/badge/updated-2026--10--23-555555)](#) [![Refreshed hourly](https://img.shields.io/badge/refresh-hourly-16a34a)](.github/workflows/update.yml) [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](LICENSE)
 
 A short, fresh list of AI and machine learning jobs, internships and new grad roles. It is rebuilt every hour from the public data of [Level](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list), the job board that shows how much AI each job involves. Every row links to its Level page, where you can read the full posting and apply.
 
-Last updated: <!--stamp-->Oct 22, 2026 23:00 UTC<!--stamp-->. 309 roles listed, newest first in each table.
+Last updated: <!--stamp-->Oct 23, 2026 04:00 UTC<!--stamp-->. 308 roles listed, newest first in each table.
 
 **AI level** shows how central AI is to the job: Builds AI ●●●●, Works on AI ●●●○, Uses AI ●●○○, Little AI ●○○○. [How Level measures it](https://jobsbylevel.com/method?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list).
 
 ## Contents
 
 - [Internships](#internships) (70)
-- [New grad and entry level](#new-grad) (41)
+- [New grad and entry level](#new-grad) (40)
 - [AI/ML engineer](#ai-ml-engineer) (60)
 - [Research](#research) (40)
 - [Data](#data) (40)
@@ -27,6 +27,7 @@ Last updated: <!--stamp-->Oct 22, 2026 23:00 UTC<!--stamp-->. 309 roles listed, 
 
 | Company | Role | Location | AI level | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| Worldline | AI Intern | Malaysia-Kuala Lumpur | Builds AI ●●●● |  | Oct 23 | [Apply](https://jobsbylevel.com/jobs/ai-intern-at-worldline-5775a6?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Waymo | 2027 Summer Intern, PhD, Research, RSI for Autonomous Driving | Mountain View, CA, USA | Builds AI ●●●● | $85/hr | Oct 22 | [Apply](https://jobsbylevel.com/jobs/2027-summer-intern-phd-research-rsi-for-autonomous-driving-at-waymo-a43fd0?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Waymo | 2027 Summer Intern, PhD, Research, Multimodal Foundation Models | Mountain View, CA, USA | Builds AI ●●●● | $85/hr | Oct 22 | [Apply](https://jobsbylevel.com/jobs/2027-summer-intern-phd-research-multimodal-foundation-models-at-waymo-28d1b5?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Waymo | 2027 Summer Intern, PhD, AI Foundations - Recipes | Mountain View, CA, USA | Builds AI ●●●● | $85/hr | Oct 22 | [Apply](https://jobsbylevel.com/jobs/2027-summer-intern-phd-ai-foundations-recipes-at-waymo-01ddd0?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -54,8 +55,6 @@ Last updated: <!--stamp-->Oct 22, 2026 23:00 UTC<!--stamp-->. 309 roles listed, 
 | Thales | STAGE - Ingénieur Data & IA pour les Composants Optiques Spatiaux - F/H | Toulouse | Works on AI ●●●○ |  | Oct 21 | [Apply](https://jobsbylevel.com/jobs/stage-ingenieur-data-ia-pour-les-composants-optiques-spatiaux-f-h-at-thales-b33ca3?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | CMA CGM | Internship - Data Scientist Intern - Freight Rate Forecasting | Marseille, FRA | Builds AI ●●●● |  | Oct 21 | [Apply](https://jobsbylevel.com/jobs/internship-data-scientist-intern-freight-rate-forecasting-at-cma-cgm-95087c?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | CMA CGM | Internship - Maritime Digital Performance Intern - R&D | Marseille, FRA | Works on AI ●●●○ |  | Oct 21 | [Apply](https://jobsbylevel.com/jobs/internship-maritime-digital-performance-intern-r-d-at-cma-cgm-543bf0?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Airbus | Stage 2027-L’Intelligence artificielle pour amélioration de la Performance Opérationnelle… | Saint Nazaire Area | Works on AI ●●●○ |  | Oct 21 | [Apply](https://jobsbylevel.com/jobs/stage-2027-l-intelligence-artificielle-pour-amelioration-de-la-performance-operationnelle-all-gender-at-airbus-afdce1?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Sanofi | I&A Intern | Shanghai | Works on AI ●●●○ |  | Oct 21 | [Apply](https://jobsbylevel.com/jobs/i-a-intern-at-sanofi-a928be?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | CMA CGM | Internship - PMO Intern - AI Portfolio & Community - Global Business Services | Marseille, FRA | Works on AI ●●●○ |  | Oct 21 | [Apply](https://jobsbylevel.com/jobs/internship-pmo-intern-ai-portfolio-community-global-business-services-at-cma-cgm-f06fde?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Bayut \| dubizzle | Machine Learning - Intern | Dubai, Dubai, United Arab Emirates | Builds AI ●●●● |  | Oct 21 | [Apply](https://jobsbylevel.com/jobs/machine-learning-intern-at-bayut-dubizzle-46f8eb?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Anduril Industries | 2027 Finance Data Analyst Intern | Costa Mesa, California, US | Works on AI ●●●○ |  | Oct 20 | [Apply](https://jobsbylevel.com/jobs/2027-finance-data-analyst-intern-at-anduril-industries-6f0424?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -97,6 +96,7 @@ Last updated: <!--stamp-->Oct 22, 2026 23:00 UTC<!--stamp-->. 309 roles listed, 
 | Thomson Reuters | Applied Science Intern | Switzerland, Zug, Zug | Builds AI ●●●● |  | Oct 16 | [Apply](https://jobsbylevel.com/jobs/applied-science-intern-at-thomson-reuters-45bfbd?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | AstraZeneca | AI & Data Science Internship Program - AstraZeneca Barcelona | Spain - Barcelona | Builds AI ●●●● |  | Oct 16 | [Apply](https://jobsbylevel.com/jobs/ai-data-science-internship-program-astrazeneca-barcelona-at-astrazeneca-fc4700?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | AstraZeneca | AI Business Support Specialist Intern | Canada - Mississauga | Works on AI ●●●○ |  | Oct 16 | [Apply](https://jobsbylevel.com/jobs/ai-business-support-specialist-intern-at-astrazeneca-c67d42?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| Philips | Internship: Synthetic Data Generation for Dental AI (Master) | Eindhoven | Builds AI ●●●● |  | Oct 16 | [Apply](https://jobsbylevel.com/jobs/internship-synthetic-data-generation-for-dental-ai-master-at-philips-54d8d0?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="new-grad"></a>
 
@@ -144,7 +144,6 @@ Last updated: <!--stamp-->Oct 22, 2026 23:00 UTC<!--stamp-->. 309 roles listed, 
 | Amazon | ASIC Engineer I, Annapurna Labs, Early Career - 2027 | US, CA, Cupertino | Builds AI ●●●● | $116k | Sep 24 | [Apply](https://jobsbylevel.com/jobs/asic-engineer-i-annapurna-labs-early-career-2027-at-amazon-c61ddc?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Cloud Hardware Development Engineer I, Annapurna Labs, Early Career - 2027 | US, TX, Austin | Builds AI ●●●● | $116k | Sep 24 | [Apply](https://jobsbylevel.com/jobs/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027-at-amazon-031708?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Software Development Engineer I, Annapurna Labs, Early Career - 2027 | US, CA, Cupertino | Builds AI ●●●● | $129k | Sep 24 | [Apply](https://jobsbylevel.com/jobs/software-development-engineer-i-annapurna-labs-early-career-2027-at-amazon-992461?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| LSEG | Junior Data Scientist | PHL-Taguig City-CitiPlaza | Builds AI ●●●● |  | Sep 23 | [Apply](https://jobsbylevel.com/jobs/junior-data-scientist-at-lseg-ae0e37?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="ai-ml-engineer"></a>
 
@@ -152,6 +151,9 @@ Last updated: <!--stamp-->Oct 22, 2026 23:00 UTC<!--stamp-->. 309 roles listed, 
 
 | Company | Role | Location | AI level | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| Glean Work | AI Engineer - Quality and Post-Training | San Francisco Bay Area | Builds AI ●●●● | $200k-$280k | Oct 23 | [Apply](https://jobsbylevel.com/jobs/ai-engineer-quality-and-post-training-at-glean-work-25337e?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| Glean Work | AI Engineer - Data and Evals | San Francisco Bay Area | Builds AI ●●●● | $200k-$280k | Oct 23 | [Apply](https://jobsbylevel.com/jobs/ai-engineer-data-and-evals-at-glean-work-76ce60?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| Waymo | Machine Learning Engineer, Scenes | Mountain View, California, US, San Fran… | Builds AI ●●●● | $175k-$215k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/machine-learning-engineer-scenes-at-waymo-e2cfbc?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Databricks | Senior Staff Software Engineer, AI Runtime | Mountain View, California; San Francisc… | Builds AI ●●●● | $229k-$343k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-staff-software-engineer-ai-runtime-at-databricks-617001?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Visa | Staff Systems Engineer, Collaboration Platforms & AI | US - Austin, TX | Works on AI ●●●○ | $133k-$251k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/staff-systems-engineer-collaboration-platforms-ai-at-visa-ca48d1?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Experian | Staff AI Engineer | São Paulo, Brazil (Remote) | Builds AI ●●●● |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/staff-ai-engineer-at-experian-1fc699?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -184,12 +186,10 @@ Last updated: <!--stamp-->Oct 22, 2026 23:00 UTC<!--stamp-->. 309 roles listed, 
 | Cisco | Senior Platform Software Engineer - AI/ML & GPU Infrastructure | San Jose, California, US | Builds AI ●●●● | $168k-$245k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-platform-software-engineer-ai-ml-gpu-infrastructure-at-cisco-15c223?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | NVIDIA | Senior HPC AI Engineer | Israel, Yokneam | Works on AI ●●●○ |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-hpc-ai-engineer-at-nvidia-271456?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Experian | Machine Learning Engineer | Sofia, Bulgaria | Builds AI ●●●● |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/machine-learning-engineer-at-experian-f95ac6?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Klaviyo | Software Engineer, Conversational Products & Agent Workflows | Boston, MA | Builds AI ●●●● | $116k-$174k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/software-engineer-conversational-products-agent-workflows-at-klaviyo-f5ddf2?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Klaviyo | Senior Software Engineer, Agent Runtime & Customer Workflows | Boston, MA | Builds AI ●●●● | $148k-$222k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-software-engineer-agent-runtime-customer-workflows-at-klaviyo-dabfd8?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | OpenAI | Applied AI Engineer | Sydney, Australia (Remote) | Builds AI ●●●● |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/applied-ai-engineer-at-openai-20d059?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Pinecone | Applied AI Engineer (Full-Stack) | New York City (Remote) | Builds AI ●●●● | $190k-$270k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/applied-ai-engineer-full-stack-at-pinecone-03eeb7?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Cohere | Staff/Senior Staff Software Engineer, Agent Infrastructure | Toronto (Remote) | Builds AI ●●●● | $240k-$360k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/staff-senior-staff-software-engineer-agent-infrastructure-at-cohere-dd38b1?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | OpenAI | Machine Learning Data Scientist - Consumer Forecasting | San Francisco (Remote) | Builds AI ●●●● | $347k-$445k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/machine-learning-data-scientist-consumer-forecasting-at-openai-ca0456?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| NVIDIA | Senior Software Engineer, AI Infrastructure Solutions | US, CA, Santa Clara | Builds AI ●●●● | $152k-$242k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-software-engineer-ai-infrastructure-solutions-at-nvidia-2d436c?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Fetch | Senior Data Scientist II, Core & Agentic Automation | Canada - Remote | Builds AI ●●●● |  | Oct 21 | [Apply](https://jobsbylevel.com/jobs/senior-data-scientist-ii-core-agentic-automation-at-fetch-39aa85?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Epic Games | Senior Machine Learning Engineer, Discovery Recommendations | BLANK,BLANK,Multiple Locations | Builds AI ●●●● | $233k-$341k | Oct 21 | [Apply](https://jobsbylevel.com/jobs/senior-machine-learning-engineer-discovery-recommendations-at-epic-games-f6d911?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | NVIDIA | Senior Software Engineer, GPU Code Generation for Machine Learning Inference | US, CA, Santa Clara | Builds AI ●●●● | $152k-$242k | Oct 21 | [Apply](https://jobsbylevel.com/jobs/senior-software-engineer-gpu-code-generation-for-machine-learning-inference-at-nvidia-31d25f?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -211,7 +211,6 @@ Last updated: <!--stamp-->Oct 22, 2026 23:00 UTC<!--stamp-->. 309 roles listed, 
 | Intel | AI Model Optimization Engineer | India, Bangalore | Builds AI ●●●● |  | Oct 21 | [Apply](https://jobsbylevel.com/jobs/ai-model-optimization-engineer-at-intel-82774c?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Workday | Sr AI Engineer | Canada, BC, Vancouver | Builds AI ●●●● | CA$169k-CA$253k | Oct 21 | [Apply](https://jobsbylevel.com/jobs/sr-ai-engineer-at-workday-2a6029?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Capital One | Machine Learning Engineer 4 | New York, NY | Builds AI ●●●● |  | Oct 20 | [Apply](https://jobsbylevel.com/jobs/machine-learning-engineer-4-at-capital-one-fdba10?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| TD Bank | Applied Machine Learning Scientist II | Toronto, Ontario (Remote) | Builds AI ●●●● | CA$126k-CA$154k | Oct 20 | [Apply](https://jobsbylevel.com/jobs/applied-machine-learning-scientist-ii-at-td-bank-a6a9d0?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="research"></a>
 
@@ -219,6 +218,8 @@ Last updated: <!--stamp-->Oct 22, 2026 23:00 UTC<!--stamp-->. 309 roles listed, 
 
 | Company | Role | Location | AI level | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| NVIDIA | Senior Research Scientist, AI-Enabled Secure Systems | US, MA, Westford | Builds AI ●●●● | $224k-$357k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-research-scientist-ai-enabled-secure-systems-at-nvidia-0b01df?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| NVIDIA | Senior Research Scientist, AI for Cybersecurity | US, MA, Westford | Builds AI ●●●● | $224k-$357k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-research-scientist-ai-for-cybersecurity-at-nvidia-24c21d?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Salesforce | Research Scientist - Salesforce AI Research | California - Palo Alto | Builds AI ●●●● | $137k-$276k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/research-scientist-salesforce-ai-research-at-salesforce-e69618?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Research Scientist III, Last Mile Science | IN, KA, Bangalore | Builds AI ●●●● |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/research-scientist-iii-last-mile-science-at-amazon-820b58?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Senior Applied Scientist, Sponsored Products | US, WA, Seattle | Builds AI ●●●● | $167k-$226k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-applied-scientist-sponsored-products-at-amazon-b3c125?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -257,8 +258,6 @@ Last updated: <!--stamp-->Oct 22, 2026 23:00 UTC<!--stamp-->. 309 roles listed, 
 | Luma AI | Research Scientist / Engineer - Reinforcement Learning Infrastructure | London, UK (Remote) | Builds AI ●●●● |  | Oct 8 | [Apply](https://jobsbylevel.com/jobs/research-scientist-engineer-reinforcement-learning-infrastructure-at-luma-ai-6b0281?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Luma AI | Research Scientist / Engineer - Performance Optimization | London, UK (Remote) | Builds AI ●●●● |  | Oct 8 | [Apply](https://jobsbylevel.com/jobs/research-scientist-engineer-performance-optimization-at-luma-ai-de7880?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Luma AI | Research Scientist / Engineer - Training Infrastructure | London, UK (Remote) | Builds AI ●●●● |  | Oct 8 | [Apply](https://jobsbylevel.com/jobs/research-scientist-engineer-training-infrastructure-at-luma-ai-2fd1eb?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Datadog | Staff Research Scientist - Post-Training for Agents | New York, New York, USA; Pittsburgh, Pe… | Builds AI ●●●● | $320k-$400k | Oct 7 | [Apply](https://jobsbylevel.com/jobs/staff-research-scientist-post-training-for-agents-at-datadog-a9fb7b?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Datadog | Staff Research Scientist - Foundation & World Models | New York, New York, USA; Pittsburgh, Pe… | Builds AI ●●●● | $320k-$400k | Oct 7 | [Apply](https://jobsbylevel.com/jobs/staff-research-scientist-foundation-world-models-at-datadog-0e6c5c?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="data"></a>
 
@@ -266,6 +265,7 @@ Last updated: <!--stamp-->Oct 22, 2026 23:00 UTC<!--stamp-->. 309 roles listed, 
 
 | Company | Role | Location | AI level | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| Commonwealth Bank of Australia | Principal Data Scientist | Sydney CBD Area | Builds AI ●●●● |  | Oct 23 | [Apply](https://jobsbylevel.com/jobs/principal-data-scientist-at-commonwealth-bank-of-australia-e773af?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Novartis | Senior Expert Data Scientist, Human Genetics | Cambridge (USA) | Builds AI ●●●● | $126k-$234k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-expert-data-scientist-human-genetics-at-novartis-5fff2e?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Data Scientist, Fleet Planning , Global Fleet Products | US, WA, Bellevue | Builds AI ●●●● | $136k-$184k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/data-scientist-fleet-planning-global-fleet-products-at-amazon-2f6869?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | State Street | Data Scientist - Assistant Vice President | Bangalore, India | Builds AI ●●●● |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/data-scientist-assistant-vice-president-at-state-street-aef528?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -305,7 +305,6 @@ Last updated: <!--stamp-->Oct 22, 2026 23:00 UTC<!--stamp-->. 309 roles listed, 
 | Sainsbury's | Data Scientist | London, London, United Kingdom (Remote) | Builds AI ●●●● |  | Oct 20 | [Apply](https://jobsbylevel.com/jobs/data-scientist-at-sainsbury-s-79a272?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Experian | Data Scientist (Contract) | Cyberjaya, Selangor, Malaysia | Builds AI ●●●● |  | Oct 20 | [Apply](https://jobsbylevel.com/jobs/data-scientist-contract-at-experian-a5efe2?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | TD Bank | Principal Data Scientist (US) | Southfield, Michigan (Remote) | Builds AI ●●●● | $149k-$223k | Oct 19 | [Apply](https://jobsbylevel.com/jobs/principal-data-scientist-us-at-td-bank-8ec12a?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| ING | Data Scientist Specialist-1 | PB\_Cen\_Katowice (ul. Chorzowska 50) (Remote) | Builds AI ●●●● |  | Oct 19 | [Apply](https://jobsbylevel.com/jobs/data-scientist-specialist-1-at-ing-f30944?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="forward-deployed"></a>
 
@@ -313,10 +312,12 @@ Last updated: <!--stamp-->Oct 22, 2026 23:00 UTC<!--stamp-->. 309 roles listed, 
 
 | Company | Role | Location | AI level | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| Vanguard | Lead Forward Deployed Engineer | Melbourne, Australia | Works on AI ●●●○ |  | Oct 23 | [Apply](https://jobsbylevel.com/jobs/lead-forward-deployed-engineer-at-vanguard-c739ce?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Salesforce | Forward Deployed Engineer | South Africa - Johannesburg | Works on AI ●●●○ |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/forward-deployed-engineer-at-salesforce-2dbda5?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Ramp | Software Engineer, Forward Deployed | New York, NY (HQ) (Remote) | Works on AI ●●●○ | $168k-$285k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/software-engineer-forward-deployed-at-ramp-0a6c21?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Sr Forward Deployed Engineer, AWS Forward Deployed Engineering | SG, Singapore (Remote) | Builds AI ●●●● |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/sr-forward-deployed-engineer-aws-forward-deployed-engineering-at-amazon-75b044?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Forward Deployed Engineer, AWS Forward Deployed Engineering | SG, Singapore | Works on AI ●●●○ |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/forward-deployed-engineer-aws-forward-deployed-engineering-at-amazon-4373f8?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| deepset | Forward Deployed Engineering Manager | Berlin (Remote) | Works on AI ●●●○ |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/forward-deployed-engineering-manager-at-deepset-61b64f?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Snowflake | Lead Forward Deployed Engineer - Migration | NL-Netherlands-Remote | Works on AI ●●●○ |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/lead-forward-deployed-engineer-migration-at-snowflake-be6143?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Senior Forward Deployed Engineer (Model Customization and Optimization) | US, WA, Seattle | Builds AI ●●●● | $168k-$227k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-forward-deployed-engineer-model-customization-and-optimization-at-amazon-a3f71d?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Baseten | Technical Program Manager, Forward Deployed Engineering | San Francisco (Remote) | Works on AI ●●●○ | $165k-$330k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/technical-program-manager-forward-deployed-engineering-at-baseten-3cb712?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -335,14 +336,12 @@ Last updated: <!--stamp-->Oct 22, 2026 23:00 UTC<!--stamp-->. 309 roles listed, 
 | Miro | Forward Deployed Consultant, Manufacturing | Amsterdam | Works on AI ●●●○ |  | Oct 19 | [Apply](https://jobsbylevel.com/jobs/forward-deployed-consultant-manufacturing-at-miro-2bbf0f?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Rogo | Forward Deployed, Asset Management (EMEA) | New York City | Works on AI ●●●○ |  | Oct 19 | [Apply](https://jobsbylevel.com/jobs/forward-deployed-asset-management-emea-at-rogo-53751e?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | GSK | Principal, Forward Deployed Engineer | UK - London - New Oxford Street (Remote) | Works on AI ●●●○ |  | Oct 19 | [Apply](https://jobsbylevel.com/jobs/principal-forward-deployed-engineer-at-gsk-97a5ae?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| BlackRock | Forward Deployed Business Analyst, Associate/ Vice President - BTO | Singapore, Singapore | Works on AI ●●●○ |  | Oct 19 | [Apply](https://jobsbylevel.com/jobs/forward-deployed-business-analyst-associate-vice-president-bto-at-blackrock-d958f5?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Databricks | Forward Deployed Engineer, FDE (L4) | Remote - India | Works on AI ●●●○ |  | Oct 19 | [Apply](https://jobsbylevel.com/jobs/forward-deployed-engineer-fde-l4-at-databricks-741655?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Databricks | Senior Forward Deployed Engineer, Sr FDE (L5) | Remote - India | Works on AI ●●●○ |  | Oct 19 | [Apply](https://jobsbylevel.com/jobs/senior-forward-deployed-engineer-sr-fde-l5-at-databricks-da2f78?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Parloa | Manager, Forward Deployed Engineering | Berlin Office; London Office; Munich Of… (Remote) | Works on AI ●●●○ |  | Oct 18 | [Apply](https://jobsbylevel.com/jobs/manager-forward-deployed-engineering-at-parloa-951741?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | NVIDIA | Director, Forward Deployed Engineering - Open Models | US, CA, Santa Clara | Builds AI ●●●● | $320k-$489k | Oct 18 | [Apply](https://jobsbylevel.com/jobs/director-forward-deployed-engineering-open-models-at-nvidia-457bfc?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | NVIDIA | Senior Forward Deployed Engineer, Open Models | US, CA, Santa Clara | Builds AI ●●●● | $184k-$288k | Oct 18 | [Apply](https://jobsbylevel.com/jobs/senior-forward-deployed-engineer-open-models-at-nvidia-cf2ebb?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Barclays | Principal Forward Deployed Data Scientist | Building 300-Whippany Campus, Jefferson… | Builds AI ●●●● | $235k | Oct 16 | [Apply](https://jobsbylevel.com/jobs/principal-forward-deployed-data-scientist-at-barclays-784c0f?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Cisco | Senior Forward Deployed Engineer | Krakow, Poland (Remote) | Works on AI ●●●○ |  | Oct 16 | [Apply](https://jobsbylevel.com/jobs/senior-forward-deployed-engineer-at-cisco-9cca58?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="remote"></a>
 
@@ -350,6 +349,7 @@ Last updated: <!--stamp-->Oct 22, 2026 23:00 UTC<!--stamp-->. 309 roles listed, 
 
 | Company | Role | Location | AI level | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| OpenAI | Product Designer, Growth | San Francisco (Remote) | Works on AI ●●●○ | $245k-$310k | Oct 23 | [Apply](https://jobsbylevel.com/jobs/product-designer-growth-at-openai-bc4b22?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | GSK | Sr. AI Product Manager - Market Access | USA - Pennsylvania - Philadelphia (Remote) | Works on AI ●●●○ |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/sr-ai-product-manager-market-access-at-gsk-5fec67?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Fireworks AI | Member of Technical Staff, Data Infrastructure Storage | San Mateo (Remote) | Builds AI ●●●● | $175k-$220k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/member-of-technical-staff-data-infrastructure-storage-at-fireworks-ai-ceec38?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Nubank | Design Engineer | Palo Alto (Remote) | Works on AI ●●●○ |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/design-engineer-at-nubank-03139a?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -378,18 +378,17 @@ Last updated: <!--stamp-->Oct 22, 2026 23:00 UTC<!--stamp-->. 309 roles listed, 
 | Amazon | Sr Forward Deployed Engineer, AWS Forward Deployed Engineering | SG, Singapore (Remote) | Builds AI ●●●● |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/sr-forward-deployed-engineer-aws-forward-deployed-engineering-at-amazon-75b044?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Cisco | Software Engineer, Agentic Systems Engineering - ThousandEyes | Oeiras, Portugal (Remote) | Builds AI ●●●● |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/software-engineer-agentic-systems-engineering-thousandeyes-at-cisco-78b45f?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Roche | Custom Software Developer (Lead IT Expert) - RDT Artificial Intelligence | Warsaw (Remote) | Works on AI ●●●○ | PLN 229k-PLN 425k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/custom-software-developer-lead-it-expert-rdt-artificial-intelligence-at-roche-60b29d?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| deepset | Forward Deployed Engineering Manager | Berlin (Remote) | Works on AI ●●●○ |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/forward-deployed-engineering-manager-at-deepset-61b64f?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Veriff | Senior Software Engineer | Tallinn, Spain (Remote) | Works on AI ●●●○ |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-software-engineer-at-veriff-e7238e?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | EggAI | IT Operations Lead - Banking | France (Remote) | Works on AI ●●●○ |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/it-operations-lead-banking-at-eggai-954552?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Horizon3 AI | Senior Sales Engineer, META | Dubai (Remote) | Works on AI ●●●○ |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-sales-engineer-meta-at-horizon3-ai-e55bf0?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | GSK | Senior Principal - Service Desk Assurance | Bengaluru Luxor North Tower (Remote) | Works on AI ●●●○ |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-principal-service-desk-assurance-at-gsk-831735?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| Qdrant | Senior Technical Success Manager (Australia or Japan) | Remote - Australia | Works on AI ●●●○ |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-technical-success-manager-australia-or-japan-at-qdrant-51630d?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Kayak | Software Engineer, Meta AI | Kaunas Office (Remote) | Works on AI ●●●○ | $20k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/software-engineer-meta-ai-at-kayak-0885d9?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Cursor | Field Engineer, Commercial | Singapore (Remote) | Works on AI ●●●○ |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/field-engineer-commercial-at-cursor-b769f8?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | ASOS | Senior Machine Learning Engineer (MLOps) | London, England, United Kingdom (Remote) | Builds AI ●●●● |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-machine-learning-engineer-mlops-at-asos-5f1e8b?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | ASOS | Senior Machine Learning Engineer (Personalisation) | London, England, United Kingdom (Remote) | Builds AI ●●●● |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-machine-learning-engineer-personalisation-at-asos-b61c1a?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | ASOS | Senior Machine Learning Engineer (Recommendations/Search) | London, England, United Kingdom (Remote) | Builds AI ●●●● |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-machine-learning-engineer-recommendations-search-at-asos-8d2443?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Orange | Subject Matter Expert | NAVI MUMBAI,INDIA (Remote) | Builds AI ●●●● |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/subject-matter-expert-at-orange-40dea8?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Zip | Solutions Manager- (German Fluency) | Remote - Germany | Works on AI ●●●○ |  | Oct 22 | [Apply](https://jobsbylevel.com/jobs/solutions-manager-german-fluency-at-zip-7a5ed3?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Cohere | Senior Staff Data Engineer | Toronto (Remote) | Works on AI ●●●○ | $275k-$450k | Oct 22 | [Apply](https://jobsbylevel.com/jobs/senior-staff-data-engineer-at-cohere-6b4fcb?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="get-alerts"></a>
 
