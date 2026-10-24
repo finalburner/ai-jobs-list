@@ -4,7 +4,7 @@
 
 A short, fresh list of AI and machine learning jobs, internships and new grad roles. It is rebuilt every hour from the public data of [Level](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list), the job board that shows how much AI each job involves. Every row links to its Level page, where you can read the full posting and apply.
 
-Last updated: <!--stamp-->Oct 24, 2026 20:00 UTC<!--stamp-->. 313 roles listed, newest first in each table.
+Last updated: <!--stamp-->Oct 24, 2026 23:00 UTC<!--stamp-->. 313 roles listed, newest first in each table.
 
 **AI level** shows how central AI is to the job: Builds AI ●●●●, Works on AI ●●●○, Uses AI ●●○○, Little AI ●○○○. [How Level measures it](https://jobsbylevel.com/method?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list).
 
@@ -346,6 +346,7 @@ Last updated: <!--stamp-->Oct 24, 2026 20:00 UTC<!--stamp-->. 313 roles listed, 
 
 | Company | Role | Location | AI level | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| LiveKit | Solutions Architect | United Kingdom (Remote) | Works on AI ●●●○ | £160k-£240k | Oct 24 | [Apply](https://jobsbylevel.com/jobs/solutions-architect-at-livekit-c87fe1?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | micro1 | Member of Technical Staff, Data Engineering | Remote | Works on AI ●●●○ | $200k-$260k | Oct 24 | [Apply](https://jobsbylevel.com/jobs/member-of-technical-staff-data-engineering-at-micro1-18ee27?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | micro1 | Member of Technical Staff, Quality Engineering | Remote | Works on AI ●●●○ | $180k-$250k | Oct 24 | [Apply](https://jobsbylevel.com/jobs/member-of-technical-staff-quality-engineering-at-micro1-62edbb?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | micro1 | Member of Technical Staff, Infrastructure | Remote | Works on AI ●●●○ | $220k-$300k | Oct 24 | [Apply](https://jobsbylevel.com/jobs/member-of-technical-staff-infrastructure-at-micro1-081ddf?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -385,7 +386,6 @@ Last updated: <!--stamp-->Oct 24, 2026 20:00 UTC<!--stamp-->. 313 roles listed, 
 | Affirm | Group Product Management Manager | Remote Canada | Works on AI ●●●○ | $209k-$269k | Oct 23 | [Apply](https://jobsbylevel.com/jobs/group-product-management-manager-at-affirm-ff509e?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | NVIDIA | Solutions Architect, AI and ML | US, WA, Redmond (Remote) | Works on AI ●●●○ | $152k-$242k | Oct 23 | [Apply](https://jobsbylevel.com/jobs/solutions-architect-ai-and-ml-at-nvidia-5eaa00?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Salesforce | Customer Success Manager - Commerce Cloud | Mexico - Mexico City (Remote) | Works on AI ●●●○ |  | Oct 23 | [Apply](https://jobsbylevel.com/jobs/customer-success-manager-commerce-cloud-at-salesforce-1df7bf?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| MintMCP | Founding RevOps Lead | San Francisco, CA (Remote) | Works on AI ●●●○ |  | Oct 23 | [Apply](https://jobsbylevel.com/jobs/founding-revops-lead-at-mintmcp-27c758?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="get-alerts"></a>
 
