@@ -1,10 +1,10 @@
 # AI/ML jobs and internships
 
-[![Open roles](https://img.shields.io/badge/open%20roles-314-2563eb)](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) [![Updated](https://img.shields.io/badge/updated-2026--10--25-555555)](#) [![Refreshed hourly](https://img.shields.io/badge/refresh-hourly-16a34a)](.github/workflows/update.yml) [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](LICENSE)
+[![Open roles](https://img.shields.io/badge/open%20roles-315-2563eb)](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) [![Updated](https://img.shields.io/badge/updated-2026--10--26-555555)](#) [![Refreshed hourly](https://img.shields.io/badge/refresh-hourly-16a34a)](.github/workflows/update.yml) [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](LICENSE)
 
 A short, fresh list of AI and machine learning jobs, internships and new grad roles. It is rebuilt every hour from the public data of [Level](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list), the job board that shows how much AI each job involves. Every row links to its Level page, where you can read the full posting and apply.
 
-Last updated: <!--stamp-->Oct 25, 2026 22:00 UTC<!--stamp-->. 314 roles listed, newest first in each table.
+Last updated: <!--stamp-->Oct 26, 2026 01:00 UTC<!--stamp-->. 315 roles listed, newest first in each table.
 
 **AI level** shows how central AI is to the job: Builds AI ●●●●, Works on AI ●●●○, Uses AI ●●○○, Little AI ●○○○. [How Level measures it](https://jobsbylevel.com/method?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list).
 
@@ -13,7 +13,7 @@ Last updated: <!--stamp-->Oct 25, 2026 22:00 UTC<!--stamp-->. 314 roles listed, 
 - [Internships](#internships) (70)
 - [New grad and entry level](#new-grad) (40)
 - [AI/ML engineer](#ai-ml-engineer) (60)
-- [Research](#research) (38)
+- [Research](#research) (39)
 - [Data](#data) (40)
 - [Forward deployed](#forward-deployed) (30)
 - [Remote](#remote) (40)
@@ -218,6 +218,7 @@ Last updated: <!--stamp-->Oct 25, 2026 22:00 UTC<!--stamp-->. 314 roles listed, 
 
 | Company | Role | Location | AI level | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| Anthropic | Research Scientist, Life Sciences (Computational Chemistry) | San Francisco, CA | Builds AI ●●●● | $300k-$320k | Oct 26 | [Apply](https://jobsbylevel.com/jobs/research-scientist-life-sciences-computational-chemistry-at-anthropic-be98bf?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | 1X | Research Engineer, Robot Learning | San Carlos, CA | Builds AI ●●●● | $130k-$300k | Oct 23 | [Apply](https://jobsbylevel.com/jobs/research-engineer-robot-learning-at-1x-3a3f54?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | NVIDIA | Research Scientist - Nemotron India | India, Bengaluru | Builds AI ●●●● |  | Oct 23 | [Apply](https://jobsbylevel.com/jobs/research-scientist-nemotron-india-at-nvidia-91aa54?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Novartis | Biocatalysis and Protein Engineering - Industrial Post Doctoral Researcher in Global Disc… | Basel (City) | Works on AI ●●●○ |  | Oct 23 | [Apply](https://jobsbylevel.com/jobs/biocatalysis-and-protein-engineering-industrial-post-doctoral-researcher-in-global-discovery-chemistry-novartis-genesis-labs-at-novartis-b3f3bb?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
