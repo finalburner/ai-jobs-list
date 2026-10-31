@@ -4,7 +4,7 @@
 
 A short, fresh list of AI and machine learning jobs, internships and new grad roles. It is rebuilt every hour from the public data of [Level](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list), the job board that shows how much AI each job involves. Every row links to its Level page, where you can read the full posting and apply.
 
-Last updated: <!--stamp-->Oct 31, 2026 17:00 UTC<!--stamp-->. 315 roles listed, newest first in each table.
+Last updated: <!--stamp-->Oct 31, 2026 21:00 UTC<!--stamp-->. 315 roles listed, newest first in each table.
 
 **AI level** shows how central AI is to the job: Builds AI ●●●●, Works on AI ●●●○, Uses AI ●●○○, Little AI ●○○○. [How Level measures it](https://jobsbylevel.com/method?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list).
 
@@ -191,6 +191,7 @@ Last updated: <!--stamp-->Oct 31, 2026 17:00 UTC<!--stamp-->. 315 roles listed, 
 | Ubisoft | AI Engineer | Bucharest, Bucharest, Romania | Builds AI ●●●● |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/ai-engineer-at-ubisoft-24d9ac?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | AKQA | Lead / Principal AI Engineer | London | Builds AI ●●●● |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/lead-principal-ai-engineer-at-akqa-db9a9b?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | HP | Edge AI Solution Engineer | All Cities, Texas, US | Works on AI ●●●○ | $169k-$250k | Oct 30 | [Apply](https://jobsbylevel.com/jobs/edge-ai-solution-engineer-at-hp-4288ce?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| LSEG | Principal Engineer - Data Platforms, Azure & GenAI | IND-Bangalore-A, RMZ Infinity (Remote) | Works on AI ●●●○ |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/principal-engineer-data-platforms-azure-genai-at-lseg-f1fad1?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | HelloFresh | Senior Mobile Engineer (React Native), Shopping AI & Search | Warszawa, Masovian Voivodeship, Poland (Remote) | Works on AI ●●●○ |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/senior-mobile-engineer-react-native-shopping-ai-search-at-hellofresh-65d00e?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Klaviyo | Lead Product Data Scientist, Agents | Boston, MA | Works on AI ●●●○ | $172k-$258k | Oct 30 | [Apply](https://jobsbylevel.com/jobs/lead-product-data-scientist-agents-at-klaviyo-d56b15?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Ubisoft | Senior Machine Learning Engineer (W/M/X) | Saint-Mandé, IDF, France | Builds AI ●●●● |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/senior-machine-learning-engineer-w-m-x-at-ubisoft-2bfc9a?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -201,6 +202,7 @@ Last updated: <!--stamp-->Oct 31, 2026 17:00 UTC<!--stamp-->. 315 roles listed, 
 | Airbnb | Staff Software Engineer AI, Platform | US (Remote) | Builds AI ●●●● | $212k-$265k | Oct 29 | [Apply](https://jobsbylevel.com/jobs/staff-software-engineer-ai-platform-at-airbnb-499ee4?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Santander | MEX Subdirector AI Engineer | CDMX | Builds AI ●●●● |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/mex-subdirector-ai-engineer-at-santander-33c6a7?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Cisco | Lead Machine Learning Engineer , AI Defense (Hybrid) | Milpitas, California, US | Builds AI ●●●● | $216k-$281k | Oct 29 | [Apply](https://jobsbylevel.com/jobs/lead-machine-learning-engineer-ai-defense-hybrid-at-cisco-94b6d0?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| Sanofi | Data & AI Engineer - Real World Data and Healthcare Intelligence | Toronto, ON (Remote) | Works on AI ●●●○ |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/data-ai-engineer-real-world-data-and-healthcare-intelligence-at-sanofi-26e211?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Capco | Sr. AI Engineer | US - Orlando | Builds AI ●●●● |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/sr-ai-engineer-at-capco-2b0fcd?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Capco | AI Technical Architect | US - Orlando | Builds AI ●●●● |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/ai-technical-architect-at-capco-6dfdf0?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Tessera Labs | AI Infrastructure Engineer \[Tooling\] | Remote in the U.S. | Builds AI ●●●● | $200k-$230k | Oct 29 | [Apply](https://jobsbylevel.com/jobs/ai-infrastructure-engineer-tooling-at-tessera-labs-7ca523?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -219,8 +221,6 @@ Last updated: <!--stamp-->Oct 31, 2026 17:00 UTC<!--stamp-->. 315 roles listed, 
 | AstraZeneca | IT Senior Architect-Data and AI Architect, China | China | Builds AI ●●●● |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/it-senior-architect-data-and-ai-architect-china-at-astrazeneca-f2b516?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Barclays | Vice President ML Ops Engineer | Noida, Candor TechSpace | Builds AI ●●●● |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/vice-president-ml-ops-engineer-at-barclays-af757d?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Sopra Steria | AI Engineer Cybersecurity (m/w/d) | bundesweit, Germany (Remote) | Builds AI ●●●● |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/ai-engineer-cybersecurity-m-w-d-at-sopra-steria-b54c6d?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Version 1 | AI Architect (Agentic AI) | Bengaluru, KA, India (Remote) | Works on AI ●●●○ |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/ai-architect-agentic-ai-at-version-1-ba671e?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Experian | Lead Machine Learning Engineer | Sofia, Bulgaria | Builds AI ●●●● |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/lead-machine-learning-engineer-at-experian-6df764?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="research"></a>
 
@@ -279,9 +279,11 @@ Last updated: <!--stamp-->Oct 31, 2026 17:00 UTC<!--stamp-->. 315 roles listed, 
 | Ubisoft | Data Scientist | Singapore, Singapore | Builds AI ●●●● |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/data-scientist-at-ubisoft-4c3187?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Systematic | Data Engineer Defence (m/w/d) - Köln/Hybrid | Cologne (Remote) | Works on AI ●●●○ |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/data-engineer-defence-m-w-d-koln-hybrid-at-systematic-18ad38?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Marsh McLennan | Data Science - Administrator | Gurugram - DLF Building | Builds AI ●●●● |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/data-science-administrator-at-marsh-mclennan-aebc0d?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| Johnson & Johnson | Manager Data Analytics & AI | Mumbai, Maharashtra, India | Works on AI ●●●○ |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/manager-data-analytics-ai-at-johnson-johnson-29a905?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Faculty | Lead Data Scientist | London (Remote) | Builds AI ●●●● |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/lead-data-scientist-at-faculty-29542d?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Faculty | Senior Data Scientist | London (Remote) | Builds AI ●●●● |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/senior-data-scientist-at-faculty-95bf76?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Experian | Risk Analyst - Data Science & Analytics | Mumbai, India (Remote) | Works on AI ●●●○ |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/risk-analyst-data-science-analytics-at-experian-6711cf?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| Amazon | Data Engineer III, Data Engineering India | IN, KA, Bengaluru | Works on AI ●●●○ |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/data-engineer-iii-data-engineering-india-at-amazon-cab688?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Commonwealth Bank of Australia | Senior Data Scientist | Sydney CBD Area | Builds AI ●●●● |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/senior-data-scientist-at-commonwealth-bank-of-australia-ede342?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Johnson & Johnson | Principal Data Scientist - DDSAI GD | Hyderabad, Andhra Pradesh, India | Builds AI ●●●● |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/principal-data-scientist-ddsai-gd-at-johnson-johnson-7fb9a6?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Data Scientist , Music DISCO | US, CA, San Francisco | Works on AI ●●●○ | $123k-$160k | Oct 30 | [Apply](https://jobsbylevel.com/jobs/data-scientist-music-disco-at-amazon-32b744?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -303,9 +305,7 @@ Last updated: <!--stamp-->Oct 31, 2026 17:00 UTC<!--stamp-->. 315 roles listed, 
 | Amazon | Data Scientist III | US, WA, Bellevue | Builds AI ●●●● | $159k-$215k | Oct 28 | [Apply](https://jobsbylevel.com/jobs/data-scientist-iii-at-amazon-12862f?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Johnson & Johnson | Senior Data Scientist - R&D DDSAI - Small Molecule Discovery | Spring House, Pennsylvania, US | Works on AI ●●●○ |  | Oct 28 | [Apply](https://jobsbylevel.com/jobs/senior-data-scientist-r-d-ddsai-small-molecule-discovery-at-johnson-johnson-d4f60b?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | OpenAI | Data Scientist, Cloud Distribution & Growth | San Francisco (Remote) | Builds AI ●●●● | $347k-$445k | Oct 28 | [Apply](https://jobsbylevel.com/jobs/data-scientist-cloud-distribution-growth-at-openai-842553?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Johnson & Johnson | Lead Data Scientist- HCC | São Paulo, Brazil (Remote) | Builds AI ●●●● |  | Oct 28 | [Apply](https://jobsbylevel.com/jobs/lead-data-scientist-hcc-at-johnson-johnson-f80e7e?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | GSK | Senior Data Scientist | USA - Pennsylvania - King of Prussia (Remote) | Works on AI ●●●○ | $145k-$242k | Oct 28 | [Apply](https://jobsbylevel.com/jobs/senior-data-scientist-at-gsk-1003e1?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| AstraZeneca | Senior Scientist, Data Science | US - Waltham - MA | Builds AI ●●●● | $119k-$178k | Oct 28 | [Apply](https://jobsbylevel.com/jobs/senior-scientist-data-science-at-astrazeneca-7021b6?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="forward-deployed"></a>
 
