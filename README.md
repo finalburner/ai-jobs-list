@@ -1,17 +1,17 @@
 # AI/ML jobs and internships
 
-[![Open roles](https://img.shields.io/badge/open%20roles-315-2563eb)](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) [![Updated](https://img.shields.io/badge/updated-2026--11--01-555555)](#) [![Refreshed hourly](https://img.shields.io/badge/refresh-hourly-16a34a)](.github/workflows/update.yml) [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](LICENSE)
+[![Open roles](https://img.shields.io/badge/open%20roles-314-2563eb)](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) [![Updated](https://img.shields.io/badge/updated-2026--11--01-555555)](#) [![Refreshed hourly](https://img.shields.io/badge/refresh-hourly-16a34a)](.github/workflows/update.yml) [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](LICENSE)
 
 A short, fresh list of AI and machine learning jobs, internships and new grad roles. It is rebuilt every hour from the public data of [Level](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list), the job board that shows how much AI each job involves. Every row links to its Level page, where you can read the full posting and apply.
 
-Last updated: <!--stamp-->Nov 1, 2026 01:00 UTC<!--stamp-->. 315 roles listed, newest first in each table.
+Last updated: <!--stamp-->Nov 1, 2026 07:00 UTC<!--stamp-->. 314 roles listed, newest first in each table.
 
 **AI level** shows how central AI is to the job: Builds AI ●●●●, Works on AI ●●●○, Uses AI ●●○○, Little AI ●○○○. [How Level measures it](https://jobsbylevel.com/method?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list).
 
 ## Contents
 
 - [Internships](#internships) (70)
-- [New grad and entry level](#new-grad) (50)
+- [New grad and entry level](#new-grad) (49)
 - [AI/ML engineer](#ai-ml-engineer) (60)
 - [Research](#research) (31)
 - [Data](#data) (40)
@@ -110,7 +110,6 @@ Last updated: <!--stamp-->Nov 1, 2026 01:00 UTC<!--stamp-->. 315 roles listed, n
 | Fractile | Early Career Compute Architect | London - JJ Mack | Builds AI ●●●● |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/early-career-compute-architect-at-fractile-0128df?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Fractile | Early Career SoC Architect | London - JJ Mack | Builds AI ●●●● |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/early-career-soc-architect-at-fractile-17b2f9?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Fractile | Early Career System Architect | London - JJ Mack | Builds AI ●●●● |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/early-career-system-architect-at-fractile-a8c262?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Nordea | Junior AI Implementation Specialist (NAM Portugal) | Paço de Arcos, 2770-131 | Works on AI ●●●○ |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/junior-ai-implementation-specialist-nam-portugal-at-nordea-ecb936?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Boeing | Entry-Level F-15 Flight Test Data Engineer | USA - Eglin AFB, FL | Builds AI ●●●● | $71k-$97k | Oct 28 | [Apply](https://jobsbylevel.com/jobs/entry-level-f-15-flight-test-data-engineer-at-boeing-2efdf3?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Anduril Industries | 2027 New Grad GNC Engineer | Costa Mesa, California, US | Works on AI ●●●○ | $117k-$154k | Oct 28 | [Apply](https://jobsbylevel.com/jobs/2027-new-grad-gnc-engineer-at-anduril-industries-bd1b4d?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | NVIDIA | Compute System Arch Engineer, AI Infra - New College Grad 2027 | China, Shanghai | Builds AI ●●●● |  | Oct 28 | [Apply](https://jobsbylevel.com/jobs/compute-system-arch-engineer-ai-infra-new-college-grad-2027-at-nvidia-8d302f?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -340,8 +339,8 @@ Last updated: <!--stamp-->Nov 1, 2026 01:00 UTC<!--stamp-->. 315 roles listed, n
 | H Company | Founding Forward Deployed Engineer - US | Hybrid New York (Remote) | Builds AI ●●●● |  | Oct 28 | [Apply](https://jobsbylevel.com/jobs/founding-forward-deployed-engineer-us-at-h-company-082aeb?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Docker | Principal Forward Deployed Engineer (EMEA) | England (Remote) | Works on AI ●●●○ |  | Oct 27 | [Apply](https://jobsbylevel.com/jobs/principal-forward-deployed-engineer-emea-at-docker-cbe62f?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | GSK | Senior, Forward Deployed Engineer (Agentic Automation for CMC R&D) | UK - London - New Oxford Street (Remote) | Builds AI ●●●● |  | Oct 27 | [Apply](https://jobsbylevel.com/jobs/senior-forward-deployed-engineer-agentic-automation-for-cmc-r-d-at-gsk-9cc5a8?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| GSK | Senior, Forward Deployed Engineer (Digital Twin & Optimization) | UK - London - New Oxford Street (Remote) | Builds AI ●●●● |  | Oct 27 | [Apply](https://jobsbylevel.com/jobs/senior-forward-deployed-engineer-digital-twin-optimization-at-gsk-8c27f8?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | GSK | Senior, Forward Deployed Engineer (Physical AI & Self-Driving Labs) | UK - London - New Oxford Street (Remote) | Builds AI ●●●● |  | Oct 27 | [Apply](https://jobsbylevel.com/jobs/senior-forward-deployed-engineer-physical-ai-self-driving-labs-at-gsk-c63ecc?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| GSK | Senior, Forward Deployed / Full Stack Engineer (Document Authoring & Knowledge Systems) | UK - London - New Oxford Street (Remote) | Builds AI ●●●● |  | Oct 27 | [Apply](https://jobsbylevel.com/jobs/senior-forward-deployed-full-stack-engineer-document-authoring-knowledge-systems-at-gsk-428333?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Salesforce | Forward Deployed Engineer MTS | Mexico - Mexico City | Works on AI ●●●○ |  | Oct 27 | [Apply](https://jobsbylevel.com/jobs/forward-deployed-engineer-mts-at-salesforce-528f1d?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="remote"></a>
