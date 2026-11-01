@@ -1,10 +1,10 @@
 # AI/ML jobs and internships
 
-[![Open roles](https://img.shields.io/badge/open%20roles-315-2563eb)](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) [![Updated](https://img.shields.io/badge/updated-2026--10--31-555555)](#) [![Refreshed hourly](https://img.shields.io/badge/refresh-hourly-16a34a)](.github/workflows/update.yml) [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](LICENSE)
+[![Open roles](https://img.shields.io/badge/open%20roles-315-2563eb)](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) [![Updated](https://img.shields.io/badge/updated-2026--11--01-555555)](#) [![Refreshed hourly](https://img.shields.io/badge/refresh-hourly-16a34a)](.github/workflows/update.yml) [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](LICENSE)
 
 A short, fresh list of AI and machine learning jobs, internships and new grad roles. It is rebuilt every hour from the public data of [Level](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list), the job board that shows how much AI each job involves. Every row links to its Level page, where you can read the full posting and apply.
 
-Last updated: <!--stamp-->Oct 31, 2026 21:00 UTC<!--stamp-->. 315 roles listed, newest first in each table.
+Last updated: <!--stamp-->Nov 1, 2026 01:00 UTC<!--stamp-->. 315 roles listed, newest first in each table.
 
 **AI level** shows how central AI is to the job: Builds AI ●●●●, Works on AI ●●●○, Uses AI ●●○○, Little AI ●○○○. [How Level measures it](https://jobsbylevel.com/method?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list).
 
@@ -313,6 +313,7 @@ Last updated: <!--stamp-->Oct 31, 2026 21:00 UTC<!--stamp-->. 315 roles listed, 
 
 | Company | Role | Location | AI level | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| Amazon | Forward Deployed Engineer (Model Customization and Optimization), AWS Forward Deployed En… | GB, London | Builds AI ●●●● |  | Oct 31 | [Apply](https://jobsbylevel.com/jobs/forward-deployed-engineer-model-customization-and-optimization-aws-forward-deployed-engineering-at-amazon-ac26ff?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Sr Forward Deployed Engineer, AWS Forward Deployed Engineering | JP, 13, Tokyo | Builds AI ●●●● |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/sr-forward-deployed-engineer-aws-forward-deployed-engineering-at-amazon-849c98?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Wells Fargo | Forward Deployed AI Specialist - Trading & Capital Markets | NEW YORK, NY | Works on AI ●●●○ |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/forward-deployed-ai-specialist-trading-capital-markets-at-wells-fargo-16671b?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Wells Fargo | VP, Forward Deployed AI Specialist | CHARLOTTE, NC | Works on AI ●●●○ |  | Oct 30 | [Apply](https://jobsbylevel.com/jobs/vp-forward-deployed-ai-specialist-at-wells-fargo-372e3c?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -337,7 +338,6 @@ Last updated: <!--stamp-->Oct 31, 2026 21:00 UTC<!--stamp-->. 315 roles listed, 
 | Intercom | Senior Forward Deployed Product Manager (Dublin) | Dublin, Ireland | Works on AI ●●●○ |  | Oct 28 | [Apply](https://jobsbylevel.com/jobs/senior-forward-deployed-product-manager-dublin-at-intercom-dab902?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Salesforce | Forward Deployed Engineer | Poland - Warsaw (Remote) | Builds AI ●●●● |  | Oct 28 | [Apply](https://jobsbylevel.com/jobs/forward-deployed-engineer-at-salesforce-8789c2?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | H Company | Founding Forward Deployed Engineer - US | Hybrid New York (Remote) | Builds AI ●●●● |  | Oct 28 | [Apply](https://jobsbylevel.com/jobs/founding-forward-deployed-engineer-us-at-h-company-082aeb?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Amazon | Forward Deployed Engineer (Model Customization and Optimization), AWS Forward Deployed En… | US, VA, Arlington (Remote) | Builds AI ●●●● | $165k-$224k | Oct 27 | [Apply](https://jobsbylevel.com/jobs/forward-deployed-engineer-model-customization-and-optimization-aws-forward-deployed-engineering-at-amazon-cbf31a?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Docker | Principal Forward Deployed Engineer (EMEA) | England (Remote) | Works on AI ●●●○ |  | Oct 27 | [Apply](https://jobsbylevel.com/jobs/principal-forward-deployed-engineer-emea-at-docker-cbe62f?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | GSK | Senior, Forward Deployed Engineer (Agentic Automation for CMC R&D) | UK - London - New Oxford Street (Remote) | Builds AI ●●●● |  | Oct 27 | [Apply](https://jobsbylevel.com/jobs/senior-forward-deployed-engineer-agentic-automation-for-cmc-r-d-at-gsk-9cc5a8?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | GSK | Senior, Forward Deployed Engineer (Digital Twin & Optimization) | UK - London - New Oxford Street (Remote) | Builds AI ●●●● |  | Oct 27 | [Apply](https://jobsbylevel.com/jobs/senior-forward-deployed-engineer-digital-twin-optimization-at-gsk-8c27f8?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
