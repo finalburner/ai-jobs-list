@@ -1,17 +1,17 @@
 # AI/ML jobs and internships
 
-[![Open roles](https://img.shields.io/badge/open%20roles-316-2563eb)](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) [![Updated](https://img.shields.io/badge/updated-2026--11--01-555555)](#) [![Refreshed hourly](https://img.shields.io/badge/refresh-hourly-16a34a)](.github/workflows/update.yml) [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](LICENSE)
+[![Open roles](https://img.shields.io/badge/open%20roles-315-2563eb)](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) [![Updated](https://img.shields.io/badge/updated-2026--11--01-555555)](#) [![Refreshed hourly](https://img.shields.io/badge/refresh-hourly-16a34a)](.github/workflows/update.yml) [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](LICENSE)
 
 A short, fresh list of AI and machine learning jobs, internships and new grad roles. It is rebuilt every hour from the public data of [Level](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list), the job board that shows how much AI each job involves. Every row links to its Level page, where you can read the full posting and apply.
 
-Last updated: <!--stamp-->Nov 1, 2026 15:00 UTC<!--stamp-->. 316 roles listed, newest first in each table.
+Last updated: <!--stamp-->Nov 1, 2026 23:00 UTC<!--stamp-->. 315 roles listed, newest first in each table.
 
 **AI level** shows how central AI is to the job: Builds AI ●●●●, Works on AI ●●●○, Uses AI ●●○○, Little AI ●○○○. [How Level measures it](https://jobsbylevel.com/method?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list).
 
 ## Contents
 
 - [Internships](#internships) (70)
-- [New grad and entry level](#new-grad) (48)
+- [New grad and entry level](#new-grad) (47)
 - [AI/ML engineer](#ai-ml-engineer) (60)
 - [Research](#research) (32)
 - [Data](#data) (40)
@@ -76,14 +76,12 @@ Last updated: <!--stamp-->Nov 1, 2026 15:00 UTC<!--stamp-->. 316 roles listed, n
 | Salesforce | Summer 2027 Intern - Forward Deployed Engineer - Global Public Sector | Arkansas - Remote | Builds AI ●●●● | $27-$29/hr | Oct 27 | [Apply](https://jobsbylevel.com/jobs/summer-2027-intern-forward-deployed-engineer-global-public-sector-at-salesforce-3a6a91?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | ASML | Data Science \| Computer Science internship: proactive support analytics | Veldhoven, Netherlands (Remote) | Works on AI ●●●○ |  | Oct 27 | [Apply](https://jobsbylevel.com/jobs/data-science-computer-science-internship-proactive-support-analytics-at-asml-ec9723?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Renault Group | CS27 - BAC+5 - AI & Business Performance Intern | Boulogne Billancourt | Works on AI ●●●○ |  | Oct 27 | [Apply](https://jobsbylevel.com/jobs/cs27-bac-5-ai-business-performance-intern-at-renault-group-b9e6ac?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Pfizer | Intern | India - Chennai | Works on AI ●●●○ |  | Oct 27 | [Apply](https://jobsbylevel.com/jobs/intern-at-pfizer-3ec555?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Prosus | AI Automation Intern (Sustainability) | Amsterdam (Remote) | Works on AI ●●●○ |  | Oct 27 | [Apply](https://jobsbylevel.com/jobs/ai-automation-intern-sustainability-at-prosus-ee5bf1?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Emergent Labs | Creative Marketing Intern - Performance Creative | Bangalore | Works on AI ●●●○ |  | Oct 27 | [Apply](https://jobsbylevel.com/jobs/creative-marketing-intern-performance-creative-at-emergent-labs-f547f8?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Visa | Data Science Intern, Data and AI Team - Summer 2027 | US - Foster City, CA | Builds AI ●●●● | $46-$55/hr | Oct 27 | [Apply](https://jobsbylevel.com/jobs/data-science-intern-data-and-ai-team-summer-2027-at-visa-7377f1?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Visa | Business Strategy Intern, Data and AI Team - Summer 2027 | US - Foster City, CA | Works on AI ●●●○ | $35-$39/hr | Oct 27 | [Apply](https://jobsbylevel.com/jobs/business-strategy-intern-data-and-ai-team-summer-2027-at-visa-43cbb7?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Visa | Product Management Intern, Data and AI Team - Summer 2027 | US - Foster City, CA | Works on AI ●●●○ | $46-$55/hr | Oct 27 | [Apply](https://jobsbylevel.com/jobs/product-management-intern-data-and-ai-team-summer-2027-at-visa-8d01e3?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | AstraZeneca | 2027 Summer Intern- Medical Writing Operations (PhD) | US - New Haven - CT | Works on AI ●●●○ |  | Oct 27 | [Apply](https://jobsbylevel.com/jobs/2027-summer-intern-medical-writing-operations-phd-at-astrazeneca-b948c0?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| WM New Zealand | Data Scientist Intern | Auckland, Auckland, New Zealand | Builds AI ●●●● |  | Oct 26 | [Apply](https://jobsbylevel.com/jobs/data-scientist-intern-at-wm-new-zealand-6415b6?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Together AI | Technical Writer Intern, Developer Experience (Summer 2027) | San Francisco (Remote) | Works on AI ●●●○ |  | Oct 26 | [Apply](https://jobsbylevel.com/jobs/technical-writer-intern-developer-experience-summer-2027-at-together-ai-73d9c7?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | RELX | Tech Accelerate Graduate Program - Software Engineer | London Wall | Works on AI ●●●○ |  | Oct 26 | [Apply](https://jobsbylevel.com/jobs/tech-accelerate-graduate-program-software-engineer-at-relx-9a72ec?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Skydio | Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (Zurich) | Zurich, Switzerland | Builds AI ●●●● |  | Oct 26 | [Apply](https://jobsbylevel.com/jobs/autonomy-engineer-intern-autonomy-infrastructure-systems-and-tools-2027-zurich-at-skydio-272b74?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -97,6 +95,8 @@ Last updated: <!--stamp-->Nov 1, 2026 15:00 UTC<!--stamp-->. 316 roles listed, n
 | Airbus | Artificial\_Intelligence\_For\_Systems\_Engineering\_Intern | Bangalore Area | Builds AI ●●●● |  | Oct 25 | [Apply](https://jobsbylevel.com/jobs/artificial-intelligence-for-systems-engineering-intern-at-airbus-c29869?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Waymo | 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations | San Francisco, CA, USA | Builds AI ●●●● | $70/hr | Oct 24 | [Apply](https://jobsbylevel.com/jobs/2027-summer-intern-ms-phd-machine-learning-driver-refinement-foundations-at-waymo-1b6d6f?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Intel | AI Hardware Engineering Intern | US, California, Santa Clara | Builds AI ●●●● | $101k-$101k | Oct 23 | [Apply](https://jobsbylevel.com/jobs/ai-hardware-engineering-intern-at-intel-e6d237?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| Scout AI | AI Engineer Intern - Fury Team (Summer 2027) | Sunnyvale, CA | Builds AI ●●●● | $45-$65/hr | Oct 23 | [Apply](https://jobsbylevel.com/jobs/ai-engineer-intern-fury-team-summer-2027-at-scout-ai-ashby-1c3ddc?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| Waymo | 2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency | Mountain View, CA, USA | Builds AI ●●●● | $70/hr | Oct 23 | [Apply](https://jobsbylevel.com/jobs/2027-summer-intern-ms-phd-software-engineer-ml-frameworks-and-efficiency-at-waymo-16df42?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="new-grad"></a>
 
@@ -151,7 +151,6 @@ Last updated: <!--stamp-->Nov 1, 2026 15:00 UTC<!--stamp-->. 316 roles listed, n
 | PwC | Data Management Consultant (Junior / Senior) | Prague | Works on AI ●●●○ |  | Oct 7 | [Apply](https://jobsbylevel.com/jobs/data-management-consultant-junior-senior-at-pwc-2d4d5d?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Satalia | Junior Data Scientist Greece | Athens, Greece (Remote) | Builds AI ●●●● | €1k-€3k | Oct 7 | [Apply](https://jobsbylevel.com/jobs/junior-data-scientist-greece-at-satalia-af3b68?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Intel | Graduate Talent (Software Application Development Engineer) | Malaysia, Penang | Works on AI ●●●○ |  | Oct 7 | [Apply](https://jobsbylevel.com/jobs/graduate-talent-software-application-development-engineer-at-intel-ab566c?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Salesforce | Software Engineer AMTS (Junior) - Keynote Demo | Mexico - Mexico City | Works on AI ●●●○ |  | Oct 2 | [Apply](https://jobsbylevel.com/jobs/software-engineer-amts-junior-keynote-demo-at-salesforce-86f326?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="ai-ml-engineer"></a>
 
@@ -217,8 +216,8 @@ Last updated: <!--stamp-->Nov 1, 2026 15:00 UTC<!--stamp-->. 316 roles listed, n
 | Point72 | AI Engineer | Bengaluru, India | Builds AI ●●●● |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/ai-engineer-at-point72-4c5bfb?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | NVIDIA | Software Engineer, ML Performance | US, CA, Santa Clara | Builds AI ●●●● | $224k-$357k | Oct 29 | [Apply](https://jobsbylevel.com/jobs/software-engineer-ml-performance-at-nvidia-6fe6ff?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Graphcore | Senior Software Engineer - AI Compute Libraries | Bristol, UK | Builds AI ●●●● |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/senior-software-engineer-ai-compute-libraries-at-graphcore-af6de1?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Barclays | Vice President ML Ops Engineer | Noida, Candor TechSpace | Builds AI ●●●● |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/vice-president-ml-ops-engineer-at-barclays-af757d?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Sopra Steria | AI Engineer Cybersecurity (m/w/d) | bundesweit, Germany (Remote) | Builds AI ●●●● |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/ai-engineer-cybersecurity-m-w-d-at-sopra-steria-b54c6d?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| Version 1 | AI Architect (Agentic AI) | Bengaluru, KA, India (Remote) | Works on AI ●●●○ |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/ai-architect-agentic-ai-at-version-1-ba671e?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="research"></a>
 
