@@ -1,10 +1,10 @@
 # AI/ML jobs and internships
 
-[![Open roles](https://img.shields.io/badge/open%20roles-315-2563eb)](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) [![Updated](https://img.shields.io/badge/updated-2026--11--01-555555)](#) [![Refreshed hourly](https://img.shields.io/badge/refresh-hourly-16a34a)](.github/workflows/update.yml) [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](LICENSE)
+[![Open roles](https://img.shields.io/badge/open%20roles-315-2563eb)](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) [![Updated](https://img.shields.io/badge/updated-2026--11--02-555555)](#) [![Refreshed hourly](https://img.shields.io/badge/refresh-hourly-16a34a)](.github/workflows/update.yml) [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](LICENSE)
 
 A short, fresh list of AI and machine learning jobs, internships and new grad roles. It is rebuilt every hour from the public data of [Level](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list), the job board that shows how much AI each job involves. Every row links to its Level page, where you can read the full posting and apply.
 
-Last updated: <!--stamp-->Nov 1, 2026 23:00 UTC<!--stamp-->. 315 roles listed, newest first in each table.
+Last updated: <!--stamp-->Nov 2, 2026 06:00 UTC<!--stamp-->. 315 roles listed, newest first in each table.
 
 **AI level** shows how central AI is to the job: Builds AI ●●●●, Works on AI ●●●○, Uses AI ●●○○, Little AI ●○○○. [How Level measures it](https://jobsbylevel.com/method?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list).
 
@@ -158,6 +158,7 @@ Last updated: <!--stamp-->Nov 1, 2026 23:00 UTC<!--stamp-->. 315 roles listed, n
 
 | Company | Role | Location | AI level | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| AstraZeneca | Principal AI Engineer - Evinova | US - Gaithersburg - MD | Builds AI ●●●● | $145k-$190k | Nov 1 | [Apply](https://jobsbylevel.com/jobs/principal-ai-engineer-evinova-at-astrazeneca-868ef4?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | NVIDIA | Senior AI Tools Engineer, SRE Operations - GeForce NOW | US, CA, Remote | Builds AI ●●●● | $144k-$230k | Oct 31 | [Apply](https://jobsbylevel.com/jobs/senior-ai-tools-engineer-sre-operations-geforce-now-at-nvidia-14fdfc?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Supabase | Software Engineer - AI Tooling Infrastructure | Remote, Global | Works on AI ●●●○ |  | Oct 31 | [Apply](https://jobsbylevel.com/jobs/software-engineer-ai-tooling-infrastructure-at-supabase-33fc4c?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Chime | Software Engineer, Jade - AI Financial Partner | San Francisco, CA, USA | Works on AI ●●●○ | $133k-$184k | Oct 31 | [Apply](https://jobsbylevel.com/jobs/software-engineer-jade-ai-financial-partner-at-chime-9177b5?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -217,7 +218,6 @@ Last updated: <!--stamp-->Nov 1, 2026 23:00 UTC<!--stamp-->. 315 roles listed, n
 | NVIDIA | Software Engineer, ML Performance | US, CA, Santa Clara | Builds AI ●●●● | $224k-$357k | Oct 29 | [Apply](https://jobsbylevel.com/jobs/software-engineer-ml-performance-at-nvidia-6fe6ff?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Graphcore | Senior Software Engineer - AI Compute Libraries | Bristol, UK | Builds AI ●●●● |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/senior-software-engineer-ai-compute-libraries-at-graphcore-af6de1?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Sopra Steria | AI Engineer Cybersecurity (m/w/d) | bundesweit, Germany (Remote) | Builds AI ●●●● |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/ai-engineer-cybersecurity-m-w-d-at-sopra-steria-b54c6d?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Version 1 | AI Architect (Agentic AI) | Bengaluru, KA, India (Remote) | Works on AI ●●●○ |  | Oct 29 | [Apply](https://jobsbylevel.com/jobs/ai-architect-agentic-ai-at-version-1-ba671e?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="research"></a>
 
