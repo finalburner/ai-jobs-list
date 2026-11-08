@@ -1,10 +1,10 @@
 # AI/ML jobs and internships
 
-[![Open roles](https://img.shields.io/badge/open%20roles-297-2563eb)](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) [![Updated](https://img.shields.io/badge/updated-2026--11--08-555555)](#) [![Refreshed hourly](https://img.shields.io/badge/refresh-hourly-16a34a)](.github/workflows/update.yml) [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](LICENSE)
+[![Open roles](https://img.shields.io/badge/open%20roles-298-2563eb)](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) [![Updated](https://img.shields.io/badge/updated-2026--11--08-555555)](#) [![Refreshed hourly](https://img.shields.io/badge/refresh-hourly-16a34a)](.github/workflows/update.yml) [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](LICENSE)
 
 A short, fresh list of AI and machine learning jobs, internships and new grad roles. It is rebuilt every hour from the public data of [Level](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list), the job board that shows how much AI each job involves. Every row links to its Level page, where you can read the full posting and apply.
 
-Last updated: <!--stamp-->Nov 8, 2026 00:00 UTC<!--stamp-->. 297 roles listed, newest first in each table.
+Last updated: <!--stamp-->Nov 8, 2026 07:00 UTC<!--stamp-->. 298 roles listed, newest first in each table.
 
 **AI level** shows how central AI is to the job: Builds AI ●●●●, Works on AI ●●●○, Uses AI ●●○○, Little AI ●○○○. [How Level measures it](https://jobsbylevel.com/method?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list).
 
@@ -146,6 +146,7 @@ Last updated: <!--stamp-->Nov 8, 2026 00:00 UTC<!--stamp-->. 297 roles listed, n
 
 | Company | Role | Location | AI level | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| Procter & Gamble | Modeling & Simulation Machine Learning Engineer | HYDERABAD OFFICE APAC PSC GDOP | Builds AI ●●●● |  | Nov 8 | [Apply](https://jobsbylevel.com/jobs/modeling-simulation-machine-learning-engineer-at-procter-gamble-33f4b1?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | AI Security Engineer, US ADC Security | US, VA, Herndon | Builds AI ●●●● | $159k-$202k | Nov 7 | [Apply](https://jobsbylevel.com/jobs/ai-security-engineer-us-adc-security-at-amazon-1d00b6?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Cresta | Marketing Engineer (AI Agents) | US (Remote) | Works on AI ●●●○ | $160k-$280k | Nov 6 | [Apply](https://jobsbylevel.com/jobs/marketing-engineer-ai-agents-at-cresta-0c00e7?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Cresta | AI Growth Engineer | US (Remote) | Works on AI ●●●○ | $160k-$280k | Nov 6 | [Apply](https://jobsbylevel.com/jobs/ai-growth-engineer-at-cresta-910b9a?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -157,8 +158,6 @@ Last updated: <!--stamp-->Nov 8, 2026 00:00 UTC<!--stamp-->. 297 roles listed, n
 | Amazon | Sr. Machine Learning Engineer | US, WA, Seattle | Builds AI ●●●● | $193k-$262k | Nov 6 | [Apply](https://jobsbylevel.com/jobs/sr-machine-learning-engineer-at-amazon-c71e37?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Capital One | AI Engineer 4 (AI Foundations: World Model, RL, Causal Inference, Sequential Data) | McLean, VA | Builds AI ●●●● |  | Nov 6 | [Apply](https://jobsbylevel.com/jobs/ai-engineer-4-ai-foundations-world-model-rl-causal-inference-sequential-data-at-capital-one-98b4c9?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Capital One | AI Engineer 5 (AI Foundations: Evaluations and Agentic Workflows) | McLean, VA | Builds AI ●●●● |  | Nov 6 | [Apply](https://jobsbylevel.com/jobs/ai-engineer-5-ai-foundations-evaluations-and-agentic-workflows-at-capital-one-ee4905?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Wells Fargo | Lead AI Software Engineer | MCLEAN, VA | Builds AI ●●●● |  | Nov 6 | [Apply](https://jobsbylevel.com/jobs/lead-ai-software-engineer-at-wells-fargo-d4de9e?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Wells Fargo | Senior AI Software Engineer | MCLEAN, VA (Remote) | Builds AI ●●●● |  | Nov 6 | [Apply](https://jobsbylevel.com/jobs/senior-ai-software-engineer-at-wells-fargo-2d5606?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | SoFi | Senior Software Engineer, AI Platform - Prism | CA - San Francisco; WA - Seattle | Builds AI ●●●● |  | Nov 6 | [Apply](https://jobsbylevel.com/jobs/senior-software-engineer-ai-platform-prism-at-sofi-eb4a59?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Coinbase | Senior Machine Learning Engineer | Remote - USA | Builds AI ●●●● | $214k-$225k | Nov 6 | [Apply](https://jobsbylevel.com/jobs/senior-machine-learning-engineer-at-coinbase-ffa777?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Cloudflare | Customer Engineer AI/ Start Up's | Hybrid | Works on AI ●●●○ | $150k-$220k | Nov 6 | [Apply](https://jobsbylevel.com/jobs/customer-engineer-ai-start-up-s-at-cloudflare-22e1e0?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -206,6 +205,7 @@ Last updated: <!--stamp-->Nov 8, 2026 00:00 UTC<!--stamp-->. 297 roles listed, n
 | NN Group | AI Engineer | The Hague (Remote) | Builds AI ●●●● | €5k-€6k | Nov 5 | [Apply](https://jobsbylevel.com/jobs/ai-engineer-at-nn-group-eddc25?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Julius Baer | AI Software Engineer 100% (f/m/d) | Madrid | Builds AI ●●●● |  | Nov 5 | [Apply](https://jobsbylevel.com/jobs/ai-software-engineer-100-f-m-d-at-julius-baer-e2ead1?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Intel | AI Software Development Engineer | PRC, Shanghai | Builds AI ●●●● |  | Nov 5 | [Apply](https://jobsbylevel.com/jobs/ai-software-development-engineer-at-intel-5bfb36?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| ASOS | Senior Machine Learning Engineer (MLOps) | London, England, United Kingdom | Builds AI ●●●● |  | Nov 5 | [Apply](https://jobsbylevel.com/jobs/senior-machine-learning-engineer-mlops-at-asos-34acc9?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="research"></a>
 
@@ -342,6 +342,7 @@ Last updated: <!--stamp-->Nov 8, 2026 00:00 UTC<!--stamp-->. 297 roles listed, n
 
 | Company | Role | Location | AI level | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| Exa | Support Engineer, PAYGO | Remote | Works on AI ●●●○ | $115k-$225k | Nov 8 | [Apply](https://jobsbylevel.com/jobs/support-engineer-paygo-at-exa-4c5f17?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Snowflake | Senior Product Manager: Extensible Compute | US-CA-Menlo Park (Remote) | Works on AI ●●●○ | $200k-$288k | Nov 7 | [Apply](https://jobsbylevel.com/jobs/senior-product-manager-extensible-compute-at-snowflake-e44d1c?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Cisco | Senior Data Engineer, Network Platform | Remote - California, USA | Works on AI ●●●○ | $168k-$245k | Nov 7 | [Apply](https://jobsbylevel.com/jobs/senior-data-engineer-network-platform-at-cisco-879a4d?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Gartner | Senior Director Analyst - Services GTM and AI Transformation | Remote - Tennessee | Works on AI ●●●○ | $172k-$203k | Nov 7 | [Apply](https://jobsbylevel.com/jobs/senior-director-analyst-services-gtm-and-ai-transformation-at-gartner-2d2d44?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -365,7 +366,6 @@ Last updated: <!--stamp-->Nov 8, 2026 00:00 UTC<!--stamp-->. 297 roles listed, n
 | GSK | Staff - Forward Deployed Engineer | USA - Pennsylvania - Philadelphia (Remote) | Builds AI ●●●● |  | Nov 6 | [Apply](https://jobsbylevel.com/jobs/staff-forward-deployed-engineer-at-gsk-0be284?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | GSK | Principal - Forward Deployed Engineer | Cambridge 300 Technology Square (Remote) | Works on AI ●●●○ | $205k-$342k | Nov 6 | [Apply](https://jobsbylevel.com/jobs/principal-forward-deployed-engineer-at-gsk-979c17?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Salesforce | Senior Director, Technical Product Management - AI Quality & Evaluation | California - San Francisco Metro - Remo… (Remote) | Works on AI ●●●○ | $218k-$365k | Nov 6 | [Apply](https://jobsbylevel.com/jobs/senior-director-technical-product-management-ai-quality-evaluation-at-salesforce-d251dd?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Wells Fargo | Senior AI Software Engineer | MCLEAN, VA (Remote) | Builds AI ●●●● |  | Nov 6 | [Apply](https://jobsbylevel.com/jobs/senior-ai-software-engineer-at-wells-fargo-2d5606?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | LangChain | Activation Specialist (London) | London (Remote) | Works on AI ●●●○ |  | Nov 6 | [Apply](https://jobsbylevel.com/jobs/activation-specialist-london-at-langchain-4d4f0c?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Cresta | Growth Marketer, SEO/AEO and Experimentation | US (Remote) | Works on AI ●●●○ | $100k-$165k | Nov 6 | [Apply](https://jobsbylevel.com/jobs/growth-marketer-seo-aeo-and-experimentation-at-cresta-23af4a?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | AssemblyAI | Product Marketing Manager | US (Remote) | Works on AI ●●●○ | $130k-$160k | Nov 6 | [Apply](https://jobsbylevel.com/jobs/product-marketing-manager-at-assemblyai-b73d9e?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
