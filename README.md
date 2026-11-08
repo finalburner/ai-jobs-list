@@ -4,7 +4,7 @@
 
 A short, fresh list of AI and machine learning jobs, internships and new grad roles. It is rebuilt every hour from the public data of [Level](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list), the job board that shows how much AI each job involves. Every row links to its Level page, where you can read the full posting and apply.
 
-Last updated: <!--stamp-->Nov 8, 2026 15:00 UTC<!--stamp-->. 300 roles listed, newest first in each table.
+Last updated: <!--stamp-->Nov 8, 2026 19:00 UTC<!--stamp-->. 300 roles listed, newest first in each table.
 
 **AI level** shows how central AI is to the job: Builds AI ●●●●, Works on AI ●●●○, Uses AI ●●○○, Little AI ●○○○. [How Level measures it](https://jobsbylevel.com/method?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list).
 
@@ -342,6 +342,7 @@ Last updated: <!--stamp-->Nov 8, 2026 15:00 UTC<!--stamp-->. 300 roles listed, n
 
 | Company | Role | Location | AI level | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| n8n | Senior Legal Counsel, Product | Berlin Office (Remote) | Works on AI ●●●○ |  | Nov 8 | [Apply](https://jobsbylevel.com/jobs/senior-legal-counsel-product-at-n8n-f75045?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Harvey | Associate Legal Engineer | Dallas (Remote) | Works on AI ●●●○ | $180k-$250k | Nov 8 | [Apply](https://jobsbylevel.com/jobs/associate-legal-engineer-at-harvey-419b7f?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Cisco | Principal Engineer Software Security Hybrid | RTP, North Carolina, US (Remote) | Builds AI ●●●● | $202k-$272k | Nov 8 | [Apply](https://jobsbylevel.com/jobs/principal-engineer-software-security-hybrid-at-cisco-cdb9a8?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Exa | Support Engineer, PAYGO | Remote | Works on AI ●●●○ | $115k-$225k | Nov 8 | [Apply](https://jobsbylevel.com/jobs/support-engineer-paygo-at-exa-4c5f17?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -381,7 +382,6 @@ Last updated: <!--stamp-->Nov 8, 2026 15:00 UTC<!--stamp-->. 300 roles listed, n
 | Modal | Forward Deployed Engineer - ML (London) | London (Remote) | Builds AI ●●●● |  | Nov 6 | [Apply](https://jobsbylevel.com/jobs/forward-deployed-engineer-ml-london-at-modal-b2a7e2?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Data Engineer, Global Procurement Technology, Global Procurement Tech | GB, London (Remote) | Works on AI ●●●○ |  | Nov 6 | [Apply](https://jobsbylevel.com/jobs/data-engineer-global-procurement-technology-global-procurement-tech-at-amazon-edc661?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Sr GenAI GTM Specialist, HCLS, AWS Specialist & Partner - Industries | GB, London (Remote) | Works on AI ●●●○ |  | Nov 6 | [Apply](https://jobsbylevel.com/jobs/sr-genai-gtm-specialist-hcls-aws-specialist-partner-industries-at-amazon-57c8c1?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Abnormal Security | Software Engineer II, Attack Detection | Remote - USA | Builds AI ●●●● | $149k-$215k | Nov 6 | [Apply](https://jobsbylevel.com/jobs/software-engineer-ii-attack-detection-at-abnormal-security-1bf9f5?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="get-alerts"></a>
 
