@@ -4,7 +4,7 @@
 
 A short, fresh list of AI and machine learning jobs, internships and new grad roles. It is rebuilt every hour from the public data of [Level](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list), the job board that shows how much AI each job involves. Every row links to its Level page, where you can read the full posting and apply.
 
-Last updated: <!--stamp-->Nov 8, 2026 19:00 UTC<!--stamp-->. 300 roles listed, newest first in each table.
+Last updated: <!--stamp-->Nov 8, 2026 23:00 UTC<!--stamp-->. 300 roles listed, newest first in each table.
 
 **AI level** shows how central AI is to the job: Builds AI ●●●●, Works on AI ●●●○, Uses AI ●●○○, Little AI ●○○○. [How Level measures it](https://jobsbylevel.com/method?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list).
 
@@ -274,7 +274,6 @@ Last updated: <!--stamp-->Nov 8, 2026 19:00 UTC<!--stamp-->. 300 roles listed, n
 | Qatar Airways | Data Scientist | Qatar-Doha | Builds AI ●●●● |  | Nov 5 | [Apply](https://jobsbylevel.com/jobs/data-scientist-at-qatar-airways-97aea4?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | AstraZeneca | Associate Director, Data Engineer | Spain - Barcelona | Builds AI ●●●● |  | Nov 5 | [Apply](https://jobsbylevel.com/jobs/associate-director-data-engineer-at-astrazeneca-e2d683?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | AstraZeneca | 【Alexion Japan】Principal Data Engineer Lead | Japan - Tokyo (Remote) | Works on AI ●●●○ |  | Nov 5 | [Apply](https://jobsbylevel.com/jobs/alexion-japan-principal-data-engineer-lead-at-astrazeneca-61d161?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Sanofi | Data Scientist | Lyon (Remote) | Builds AI ●●●● | €57k | Nov 5 | [Apply](https://jobsbylevel.com/jobs/data-scientist-at-sanofi-db538b?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Capital One | Manager, Data Scientist - Optimization | New York, NY | Builds AI ●●●● |  | Nov 4 | [Apply](https://jobsbylevel.com/jobs/manager-data-scientist-optimization-at-capital-one-671184?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Thales | Data Engineer (F/H) | Vélizy-Villacoublay | Works on AI ●●●○ |  | Nov 4 | [Apply](https://jobsbylevel.com/jobs/data-engineer-f-h-at-thales-7a0f23?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Version 1 | Senior Databricks Data Engineer | Dublin, County Dublin, Ireland (Remote) | Works on AI ●●●○ |  | Nov 4 | [Apply](https://jobsbylevel.com/jobs/senior-databricks-data-engineer-at-version-1-533c91?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -298,6 +297,7 @@ Last updated: <!--stamp-->Nov 8, 2026 19:00 UTC<!--stamp-->. 300 roles listed, n
 | Thales | Ingénieur Data Scientist Recherche Operationnelle F/H | Toulouse | Builds AI ●●●● |  | Nov 2 | [Apply](https://jobsbylevel.com/jobs/ingenieur-data-scientist-recherche-operationnelle-f-h-at-thales-10ba3c?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Capco | Senior Data Scientist | India - Bengaluru; India - Pune | Builds AI ●●●● |  | Nov 2 | [Apply](https://jobsbylevel.com/jobs/senior-data-scientist-at-capco-e96b50?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | LSEG | Senior Data Scientist | IND-Bangalore-TowerE,RMZ Infin | Builds AI ●●●● |  | Nov 2 | [Apply](https://jobsbylevel.com/jobs/senior-data-scientist-at-lseg-96402a?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| Grab | Senior Data Scientist (Business & Transaction Platform) | Singapore, Singapore | Builds AI ●●●● |  | Nov 2 | [Apply](https://jobsbylevel.com/jobs/senior-data-scientist-business-transaction-platform-at-grab-b6715f?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="forward-deployed"></a>
 
@@ -370,7 +370,6 @@ Last updated: <!--stamp-->Nov 8, 2026 19:00 UTC<!--stamp-->. 300 roles listed, n
 | OpenAI | Applied AI Engineer, Enterprise - EDU | San Francisco (Remote) | Builds AI ●●●● | $251k-$278k | Nov 6 | [Apply](https://jobsbylevel.com/jobs/applied-ai-engineer-enterprise-edu-at-openai-173ea7?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | ElevenLabs | Deployment Strategist, Public Sector (Federal & SLED) - North America | US (Remote) | Works on AI ●●●○ |  | Nov 6 | [Apply](https://jobsbylevel.com/jobs/deployment-strategist-public-sector-federal-sled-north-america-at-elevenlabs-a700da?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | OpenAI | Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS) | San Francisco (Remote) | Builds AI ●●●● | $251k-$278k | Nov 6 | [Apply](https://jobsbylevel.com/jobs/applied-ai-engineer-enterprise-healthcare-life-sciences-hls-at-openai-f0e2c7?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Natera | Senior Product Manager, ClinicalAI Real-World Data (RWD) | US Remote | Works on AI ●●●○ |  | Nov 6 | [Apply](https://jobsbylevel.com/jobs/senior-product-manager-clinicalai-real-world-data-rwd-at-natera-d5e815?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Novartis | Python Developer | Barcelona Gran Vía (Remote) | Works on AI ●●●○ | €35k-€65k | Nov 6 | [Apply](https://jobsbylevel.com/jobs/python-developer-at-novartis-496f18?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | GSK | Staff - Forward Deployed Engineer | USA - Pennsylvania - Philadelphia (Remote) | Builds AI ●●●● |  | Nov 6 | [Apply](https://jobsbylevel.com/jobs/staff-forward-deployed-engineer-at-gsk-0be284?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | GSK | Principal - Forward Deployed Engineer | Cambridge 300 Technology Square (Remote) | Works on AI ●●●○ | $205k-$342k | Nov 6 | [Apply](https://jobsbylevel.com/jobs/principal-forward-deployed-engineer-at-gsk-979c17?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -382,6 +381,7 @@ Last updated: <!--stamp-->Nov 8, 2026 19:00 UTC<!--stamp-->. 300 roles listed, n
 | Modal | Forward Deployed Engineer - ML (London) | London (Remote) | Builds AI ●●●● |  | Nov 6 | [Apply](https://jobsbylevel.com/jobs/forward-deployed-engineer-ml-london-at-modal-b2a7e2?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Data Engineer, Global Procurement Technology, Global Procurement Tech | GB, London (Remote) | Works on AI ●●●○ |  | Nov 6 | [Apply](https://jobsbylevel.com/jobs/data-engineer-global-procurement-technology-global-procurement-tech-at-amazon-edc661?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Sr GenAI GTM Specialist, HCLS, AWS Specialist & Partner - Industries | GB, London (Remote) | Works on AI ●●●○ |  | Nov 6 | [Apply](https://jobsbylevel.com/jobs/sr-genai-gtm-specialist-hcls-aws-specialist-partner-industries-at-amazon-57c8c1?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| Abnormal Security | Software Engineer II, Attack Detection | Remote - USA | Builds AI ●●●● | $149k-$215k | Nov 6 | [Apply](https://jobsbylevel.com/jobs/software-engineer-ii-attack-detection-at-abnormal-security-1bf9f5?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="get-alerts"></a>
 
