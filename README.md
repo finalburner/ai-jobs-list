@@ -4,7 +4,7 @@
 
 A short, fresh list of AI and machine learning jobs, internships and new grad roles. It is rebuilt every hour from the public data of [Level](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list), the job board that shows how much AI each job involves. Every row links to its Level page, where you can read the full posting and apply.
 
-Last updated: <!--stamp-->Nov 15, 2026 17:00 UTC<!--stamp-->. 304 roles listed, newest first in each table.
+Last updated: <!--stamp-->Nov 15, 2026 22:00 UTC<!--stamp-->. 304 roles listed, newest first in each table.
 
 **AI level** shows how central AI is to the job: Builds AI ●●●●, Works on AI ●●●○, Uses AI ●●○○, Little AI ●○○○. [How Level measures it](https://jobsbylevel.com/method?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list).
 
@@ -336,7 +336,7 @@ Last updated: <!--stamp-->Nov 15, 2026 17:00 UTC<!--stamp-->. 304 roles listed, 
 | n8n | Lead Forward Deployed Engineer - EMEA | Berlin Office (Remote) | Works on AI ●●●○ |  | Nov 11 | [Apply](https://jobsbylevel.com/jobs/lead-forward-deployed-engineer-emea-at-n8n-c874c7?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | GSK | Principal Forward Deployed DevSecOps Engineer | Bengaluru Luxor North Tower (Remote) | Works on AI ●●●○ |  | Nov 11 | [Apply](https://jobsbylevel.com/jobs/principal-forward-deployed-devsecops-engineer-at-gsk-3c91a8?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | GSK | Staff/Director, Forward Deployed Engineer | UK - London - New Oxford Street (Remote) | Builds AI ●●●● |  | Nov 11 | [Apply](https://jobsbylevel.com/jobs/staff-director-forward-deployed-engineer-at-gsk-8b611f?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| OpenAI | Manager, Deployment Lead, Forward Deployed Engineering (FDE) - Singapore | Singapore (Remote) | Builds AI ●●●● |  | Nov 11 | [Apply](https://jobsbylevel.com/jobs/manager-deployment-lead-forward-deployed-engineering-fde-singapore-at-openai-bcebdb?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| OpenAI | Manager, Deployment Lead, Forward Deployed Engineering (FDE) - Singapore | Singapore (Remote) | Works on AI ●●●○ |  | Nov 11 | [Apply](https://jobsbylevel.com/jobs/manager-deployment-lead-forward-deployed-engineering-fde-singapore-at-openai-bcebdb?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Forward Deployed Engineer, Forward Deployment Engineering | US, WA, Seattle | Works on AI ●●●○ | $144k-$194k | Nov 10 | [Apply](https://jobsbylevel.com/jobs/forward-deployed-engineer-forward-deployment-engineering-at-amazon-6bceb0?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="remote"></a>
@@ -345,6 +345,7 @@ Last updated: <!--stamp-->Nov 15, 2026 17:00 UTC<!--stamp-->. 304 roles listed, 
 
 | Company | Role | Location | AI level | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| OpenAI | Full Stack Software Engineer, Travel | San Francisco (Remote) | Works on AI ●●●○ | $347k-$385k | Nov 15 | [Apply](https://jobsbylevel.com/jobs/full-stack-software-engineer-travel-at-openai-ecd46e?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Jobicy | Software Engineer, AI & Automation at NerdWallet | Remote, USA | Builds AI ●●●● |  | Nov 15 | [Apply](https://jobsbylevel.com/jobs/software-engineer-ai-automation-at-nerdwallet-at-jobicy-8aad56?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Jobicy | Director, GTM AI Engineering at Samsara | Remote, USA | Works on AI ●●●○ | $182k-$325k | Nov 15 | [Apply](https://jobsbylevel.com/jobs/director-gtm-ai-engineering-at-samsara-at-jobicy-10a641?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Jobicy | Senior Product Manager, Operations & Commercialization at Serve Robotics | Remote, Canada, USA | Works on AI ●●●○ |  | Nov 15 | [Apply](https://jobsbylevel.com/jobs/senior-product-manager-operations-commercialization-at-serve-robotics-at-jobicy-31fe33?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -381,7 +382,6 @@ Last updated: <!--stamp-->Nov 15, 2026 17:00 UTC<!--stamp-->. 304 roles listed, 
 | Lambda | Enterprise Account Executive - Lambda Cloud | San Francisco Office (Second St) (Remote) | Works on AI ●●●○ | $145k-$215k | Nov 13 | [Apply](https://jobsbylevel.com/jobs/enterprise-account-executive-lambda-cloud-at-lambda-7e59a1?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Lambda | Senior Account Executive - Lambda Cloud | San Francisco Office (Second St) (Remote) | Works on AI ●●●○ | $118k-$175k | Nov 13 | [Apply](https://jobsbylevel.com/jobs/senior-account-executive-lambda-cloud-at-lambda-8411ac?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Cloudflare | Director, Growth Sales (AI & Digital Natives) | Hybrid (Remote) | Works on AI ●●●○ | $378k-$496k | Nov 13 | [Apply](https://jobsbylevel.com/jobs/director-growth-sales-ai-digital-natives-at-cloudflare-1c53ef?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Abridge | Member of Product Staff, Core Product | SF Office (Remote) | Works on AI ●●●○ | $270k-$300k | Nov 13 | [Apply](https://jobsbylevel.com/jobs/member-of-product-staff-core-product-at-abridge-9f1f80?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="get-alerts"></a>
 
