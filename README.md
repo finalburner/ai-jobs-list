@@ -1,10 +1,10 @@
 # AI/ML jobs and internships
 
-[![Open roles](https://img.shields.io/badge/open%20roles-304-2563eb)](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) [![Updated](https://img.shields.io/badge/updated-2026--11--15-555555)](#) [![Refreshed hourly](https://img.shields.io/badge/refresh-hourly-16a34a)](.github/workflows/update.yml) [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](LICENSE)
+[![Open roles](https://img.shields.io/badge/open%20roles-304-2563eb)](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) [![Updated](https://img.shields.io/badge/updated-2026--11--16-555555)](#) [![Refreshed hourly](https://img.shields.io/badge/refresh-hourly-16a34a)](.github/workflows/update.yml) [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey)](LICENSE)
 
 A short, fresh list of AI and machine learning jobs, internships and new grad roles. It is rebuilt every hour from the public data of [Level](https://jobsbylevel.com/?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list), the job board that shows how much AI each job involves. Every row links to its Level page, where you can read the full posting and apply.
 
-Last updated: <!--stamp-->Nov 15, 2026 22:00 UTC<!--stamp-->. 304 roles listed, newest first in each table.
+Last updated: <!--stamp-->Nov 16, 2026 02:00 UTC<!--stamp-->. 304 roles listed, newest first in each table.
 
 **AI level** shows how central AI is to the job: Builds AI ●●●●, Works on AI ●●●○, Uses AI ●●○○, Little AI ●○○○. [How Level measures it](https://jobsbylevel.com/method?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list).
 
@@ -147,6 +147,8 @@ Last updated: <!--stamp-->Nov 15, 2026 22:00 UTC<!--stamp-->. 304 roles listed, 
 
 | Company | Role | Location | AI level | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| Amazon | Senior Applied AI Solutions Architect, Amazon Connect, AWS, AWS Applied AI Solutions | JP, 13, Tokyo | Works on AI ●●●○ |  | Nov 16 | [Apply](https://jobsbylevel.com/jobs/senior-applied-ai-solutions-architect-amazon-connect-aws-aws-applied-ai-solutions-at-amazon-eb46a7?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
+| Cisco | AI/Software Engineer | Oeiras, Portugal | Works on AI ●●●○ |  | Nov 16 | [Apply](https://jobsbylevel.com/jobs/ai-software-engineer-at-cisco-3c8960?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Jobicy | Software Engineer, AI & Automation at NerdWallet | Remote, USA | Builds AI ●●●● |  | Nov 15 | [Apply](https://jobsbylevel.com/jobs/software-engineer-ai-automation-at-nerdwallet-at-jobicy-8aad56?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Black Forest Labs | Machine Learning Engineer - Moderation | San Francisco (US) | Builds AI ●●●● | $220k-$280k | Nov 15 | [Apply](https://jobsbylevel.com/jobs/machine-learning-engineer-moderation-at-black-forest-labs-9ec4bc?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Machine Learning Engineer, CreativeFlux, AI Studios | US, NY, New York | Builds AI ●●●● | $144k-$194k | Nov 15 | [Apply](https://jobsbylevel.com/jobs/machine-learning-engineer-creativeflux-ai-studios-at-amazon-462f54?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -168,7 +170,6 @@ Last updated: <!--stamp-->Nov 15, 2026 22:00 UTC<!--stamp-->. 304 roles listed, 
 | CoreWeave | Senior Software Engineer II, Inference | Sunnyvale, CA / Bellevue, WA | Builds AI ●●●● | $182k-$242k | Nov 13 | [Apply](https://jobsbylevel.com/jobs/senior-software-engineer-ii-inference-at-coreweave-793b6e?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Senior Software Engineer, AI & Strategic Partner Engineering | US, CA, Santa Clara | Builds AI ●●●● | $193k-$262k | Nov 13 | [Apply](https://jobsbylevel.com/jobs/senior-software-engineer-ai-strategic-partner-engineering-at-amazon-02cab1?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Amazon | Software Development Engineer - ML, Prime Video Personalization, Harmonia Optimizer | US, WA, Seattle | Builds AI ●●●● | $144k-$194k | Nov 13 | [Apply](https://jobsbylevel.com/jobs/software-development-engineer-ml-prime-video-personalization-harmonia-optimizer-at-amazon-f163ce?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Amazon | Software Development Engineer, Agent Platforms & Services | US, WA, Seattle (Remote) | Builds AI ●●●● | $144k-$194k | Nov 13 | [Apply](https://jobsbylevel.com/jobs/software-development-engineer-agent-platforms-services-at-amazon-d7dd53?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Morgan Stanley | Data Scientist (NLP Specialist) (Hybrid) // Scientifique des données principal(e) (spécia… | Montreal, Canada (Remote) | Builds AI ●●●● |  | Nov 13 | [Apply](https://jobsbylevel.com/jobs/data-scientist-nlp-specialist-hybrid-scientifique-des-donnees-principal-e-specialiste-en-taln-hybride-at-morgan-stanley-426722?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Thomson Reuters | Legal AI Engineer, Strategic Accounts - Mid Law | US, Eagan, Minnesota (Remote) | Works on AI ●●●○ | $256k-$475k | Nov 13 | [Apply](https://jobsbylevel.com/jobs/legal-ai-engineer-strategic-accounts-mid-law-at-thomson-reuters-e2cb5c?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Philips | AI & Data Engineer - Hospital Patient Monitoring | Nashville, Tennessee, US | Works on AI ●●●○ | $115k-$183k | Nov 13 | [Apply](https://jobsbylevel.com/jobs/ai-data-engineer-hospital-patient-monitoring-at-philips-442153?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -206,7 +207,6 @@ Last updated: <!--stamp-->Nov 15, 2026 22:00 UTC<!--stamp-->. 304 roles listed, 
 | Agility Robotics | Senior Software Engineer, AI/ML Platform | Hybrid- Any Office (Fremont, CA, Salem,… | Builds AI ●●●● | $197k-$307k | Nov 12 | [Apply](https://jobsbylevel.com/jobs/senior-software-engineer-ai-ml-platform-at-agility-robotics-9fa24d?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Canva | Staff Security Engineer- AI Security (remote across Australia) | Sydney, Australia (Remote) | Builds AI ●●●● |  | Nov 12 | [Apply](https://jobsbylevel.com/jobs/staff-security-engineer-ai-security-remote-across-australia-at-canva-3cb92f?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Anduril Industries | Software Engineer, AI | Costa Mesa, California, US | Builds AI ●●●● | $167k-$222k | Nov 12 | [Apply](https://jobsbylevel.com/jobs/software-engineer-ai-at-anduril-industries-3f65ce?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Hewlett Packard Enterprise | Finance AI/ML Engineer - PhD | Spring, Texas, US | Builds AI ●●●● |  | Nov 12 | [Apply](https://jobsbylevel.com/jobs/finance-ai-ml-engineer-phd-at-hewlett-packard-enterprise-a017b7?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="research"></a>
 
@@ -261,6 +261,7 @@ Last updated: <!--stamp-->Nov 15, 2026 22:00 UTC<!--stamp-->. 304 roles listed, 
 
 | Company | Role | Location | AI level | Salary | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| Commonwealth Bank of Australia | Principal Data Scientist | Sydney CBD Area | Builds AI ●●●● |  | Nov 16 | [Apply](https://jobsbylevel.com/jobs/principal-data-scientist-at-commonwealth-bank-of-australia-90922f?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Cisco | Senior Economist / Data Scientist, Technology Markets | London, United Kingdom (Remote) | Works on AI ●●●○ |  | Nov 15 | [Apply](https://jobsbylevel.com/jobs/senior-economist-data-scientist-technology-markets-at-cisco-4a311a?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Bloomberg | BloombergNEF Data Centers & Digital Infrastructure Data Analyst (6 month contract) | London, United Kingdom | Works on AI ●●●○ |  | Nov 14 | [Apply](https://jobsbylevel.com/jobs/bloombergnef-data-centers-digital-infrastructure-data-analyst-6-month-contract-at-bloomberg-c72ade?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Jobicy | Senior Applied Data Scientist, Fleet Intelligence at Fleetio | Remote, Canada, Mexico, USA | Builds AI ●●●● |  | Nov 14 | [Apply](https://jobsbylevel.com/jobs/senior-applied-data-scientist-fleet-intelligence-at-fleetio-at-jobicy-9f5ef7?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
@@ -300,7 +301,6 @@ Last updated: <!--stamp-->Nov 15, 2026 22:00 UTC<!--stamp-->. 304 roles listed, 
 | HelloFresh | Senior Data Scientist, Customer Value Forecasting | Toronto, Ontario, Canada | Builds AI ●●●● | CA$170k-CA$200k | Nov 11 | [Apply](https://jobsbylevel.com/jobs/senior-data-scientist-customer-value-forecasting-at-hellofresh-0d188e?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Cazoo | Lead Data Scientist | Richmond, United Kingdom | Builds AI ●●●● |  | Nov 11 | [Apply](https://jobsbylevel.com/jobs/lead-data-scientist-at-cazoo-e1f7d4?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 | Ebury | Senior Data Scientist | Madrid | Builds AI ●●●● |  | Nov 11 | [Apply](https://jobsbylevel.com/jobs/senior-data-scientist-at-ebury-c39dee?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
-| Grab | Senior Data Scientist (Trust & Fraud) | Petaling Jaya, Malaysia | Builds AI ●●●● |  | Nov 11 | [Apply](https://jobsbylevel.com/jobs/senior-data-scientist-trust-fraud-at-grab-dc54e4?utm_source=github&utm_medium=list&utm_campaign=ai-jobs-list) |
 
 <a id="forward-deployed"></a>
 
